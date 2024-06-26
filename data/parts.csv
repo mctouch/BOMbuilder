@@ -1,0 +1,1040 @@
+﻿Type,Notes,,,,,,,,
+,,,,,,,,,
+ARS-111GL-DNHR-LCC,NVIDIA H100 Tensor Core GPU on GH200 Grace Hopper™ Superchip (Liquid-cooled),Liquid cooling,Onboard,1 GPU per node,Onboard,NVIDIA 72-core NVIDIA Grace CPU on GH200 Grace Hopper™ Superchip,1 per node,,
+ARS-111GL-NHR,NVIDIA H100 Tensor Core GPU on GH200 Grace Hopper™ Superchip (Air-cooled),Passive,Onboard,1 GPU,Onboard,NVIDIA 72-core NVIDIA Grace CPU on GH200 Grace Hopper™ Superchip,1,Supermicro Validated,
+ARS-111GL-NHR-LCC,NVIDIA H100 Tensor Core GPU on GH200 Grace Hopper™ Superchip (Liquid-cooled),Liquid cooling,Onboard,1 GPU,Onboard,NVIDIA 72-core NVIDIA Grace CPU on GH200 Grace Hopper™ Superchip,1,,
+ARS-210M-NR,NVIDIA PCIe A10,Passive,PCIe 4.0,4 GPU,Single Width,Ampere® Altra® / Altra® Max processor,1,NVIDIA-Qualified,
+ARS-210M-NR,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,Ampere® Altra® / Altra® Max processor,1,NVIDIA-Qualified,
+ARS-210M-NR,NVIDIA PCIe A16,Passive,PCIe 4.0,4 GPU,Double Width,Ampere® Altra® / Altra® Max processor,1,NVIDIA-Qualified,
+ARS-210M-NR,NVIDIA PCIe H100,Passive,PCIe 5.0,4 GPU,Double Width,Ampere® Altra® / Altra® Max processor,1,NVIDIA-Qualified,
+ARS-210M-NR,NVIDIA PCIe L4,Passive,PCIe 4.0,4 GPU,Single Width,Ampere® Altra® / Altra® Max processor,1,NVIDIA-Qualified,
+ARS-210M-NR,NVIDIA PCIe L40S,Passive,PCIe 4.0,4 GPU,Double Width,Ampere® Altra® / Altra® Max processor,1,Supermicro Validated,
+ARS-210ME-FNR,NVIDIA PCIe A16,Passive,PCIe 4.0,1 GPU,Double Width,Ampere® Altra® / Altra® Max processor,1,Supermicro Validated,
+ARS-221GL-NHIR,NVIDIA H100 Tensor Core GPU on GH200 Grace Hopper™ Superchip (Air-cooled),Passive,Onboard,2 GPU,Onboard,NVIDIA 72-core NVIDIA Grace CPU on GH200 Grace Hopper™ Superchip,1,,
+ARS-221GL-NR,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,NVIDIA Dual 72-core CPUs on a Grace™ CPU Superchip,2,,
+ARS-221GL-NR,NVIDIA PCIe H100 NVL,Passive,PCIe 5.0,2 GPU,Double Width,NVIDIA Dual 72-core CPUs on a Grace™ CPU Superchip,2,,
+AS -1014S-WTRT,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,a11
+AS -1014S-WTRT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,
+AS -1015A-MT,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -1015A-MT,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -1015A-MT,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -1015A-MT,NVIDIA PCIe RTX 4000 Ada Generation,Active,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -1015A-MT,AMD PCIe Radeon Pro W7500,,,1 GPU,,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -1015CS-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,1,,
+AS -1015CS-TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,1,,
+AS -1015SV-WTNRT,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,"z7,z5"
+AS -1015SV-WTNRT,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,"z7,z5"
+AS -1015SV-WTNRT,NVIDIA PCIe L40,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,"z8,z5,z4,e6"
+AS -1024US-TRT,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -1024US-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -1114CS-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,
+AS -1114CS-TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,
+AS -1114S-WTRT,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,a11
+AS -1114S-WTRT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,
+AS -1115CS-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,e4
+AS -1115CS-TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,e4
+AS -1115HS-TNR,NVIDIA PCIe H100,Passive,PCIe 5.0,1 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,"ac,i4,e5"
+AS -1115S-FDWTRT,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,
+AS -1115S-FDWTRT-OS1,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,,
+AS -1115S-FWTRT,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,
+AS -1115S-FWTRT-OS1,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,,
+AS -1115SV-WTNRT,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,"z7,z5"
+AS -1115SV-WTNRT,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,"z7,z5"
+AS -1115SV-WTNRT,NVIDIA PCIe L40,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,"z8,z5,z4,e6"
+AS -2014CS-TR,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,a6
+AS -2014CS-TR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,a5
+AS -2014CS-TR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,a10
+AS -2014CS-TR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,a5
+AS -2014CS-TR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,a5
+AS -2014CS-TR,AMD PCIe Instinct MI100,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,a9
+AS -2014CS-TR,AMD PCIe Instinct MI210,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,e4
+AS -2014CS-TR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,a6
+AS -2014CS-TR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,a6
+AS -2014CS-TR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,a5
+AS -2014CS-TR,NVIDIA PCIe T4,Passive,PCIe 3.0,4 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,
+AS -2015A-TR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 4004 Series Processor,1,,
+AS -2015A-TR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 4004 Series Processor,1,,
+AS -2015CS-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,e5
+AS -2015CS-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,e5
+AS -2015CS-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,e5
+AS -2015CS-TNR,NVIDIA PCIe A30,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,e5
+AS -2015CS-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,e5
+AS -2015CS-TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,e5
+AS -2015CS-TNR,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,"e6,e5"
+AS -2015CS-TNR,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,e5
+AS -2015CS-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,"g4,e5"
+AS -2015CS-TNR,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,e5
+AS -2015HS-TNR,NVIDIA PCIe L40S,Passive,PCIe 4.0,4 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,"ac,e5"
+AS -2015HS-TNR,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,"ac,a4"
+AS -2015HS-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,"ad,a4"
+AS -2015SV-WTNRT,NVIDIA PCIe RTX 4000 Ada Generation,Active,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,"z4,z3,z2,z1"
+AS -2015SV-WTNRT,NVIDIA PCIe T400,Active,PCIe 3.0,2 GPU,Single Width,AMD EPYC™ 8004 Series Processor,1,Supermicro Validated,z7
+AS -2023US-TR4,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,"v,t,s,b"
+AS -2023US-TR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,"v,t,s,b"
+AS -2023US-TR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,"v,t,s,b"
+AS -2023US-TR4,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,
+AS -2023US-TR4,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,"v,t,s,a"
+AS -2024US-TRT,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,a"
+AS -2024US-TRT,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,a3
+AS -2024US-TRT,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,a"
+AS -2024US-TRT,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,"a3,a"
+AS -2024US-TRT,AMD PCIe Instinct MI100,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,AMD PCIe Instinct MI210,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"g9,a3"
+AS -2024US-TRT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,b"
+AS -2024US-TRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"a3,a"
+AS -2024US-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,4 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -2025HS-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ad,i4,i2,e5"
+AS -2025HS-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ad,i4,i3,i2,e5"
+AS -2025HS-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ad,i4,i2,e5"
+AS -2025HS-TNR,NVIDIA PCIe H100,Passive,PCIe 5.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ac,i3,e5"
+AS -2025HS-TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"i4,i3,i2,e5"
+AS -2025HS-TNR,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ac,i4,i3,i2,e5"
+AS -2025HS-TNR,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 9004 Series Processors,2,,"ab,e5"
+AS -2025HS-TNR,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ac,e5"
+AS -2025HS-TNR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,e5
+AS -2025HS-TNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ab,e5"
+AS -2025HS-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ad,e5"
+AS -2025HS-TNR,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"ac,i4,i3,i2,e5"
+AS -2114GT-DNR,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU per node,Single Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,NVIDIA-Certified,"x7,c6"
+AS -2114GT-DNR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DNR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU per node,Single Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DNR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DNR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,NVIDIA-Certified,"x7,c5"
+AS -2114GT-DNR,AMD PCIe Instinct MI100,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,"x7,c5"
+AS -2114GT-DNR,AMD PCIe Instinct MI210,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,"x7,c5"
+AS -2114GT-DNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU per node,Single Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DNR,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,NVIDIA-Qualified,"x7,c5"
+AS -2114GT-DNR,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DPNR,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU per node,Single Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,NVIDIA-Certified,"x7,c6"
+AS -2114GT-DPNR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DPNR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU per node,Single Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DPNR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DPNR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,NVIDIA-Certified,"x7,c5"
+AS -2114GT-DPNR,AMD PCIe Instinct MI100,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,"x7,c5"
+AS -2114GT-DPNR,AMD PCIe Instinct MI210,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,"x7,c5"
+AS -2114GT-DPNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU per node,Single Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DPNR,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2114GT-DPNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,NVIDIA-Qualified,"x7,c5"
+AS -2114GT-DPNR,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU per node,Double Width,AMD EPYC™ 7002/7003 Series Processors,1 per node,Supermicro Validated,
+AS -2115HS-TNR,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,"ac,a4"
+AS -2115HS-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,"ad,a4"
+AS -2115HV-TNRT,NVIDIA PCIe L40S,Passive,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 7000 WX-Series,1,,
+AS -2115HV-TNRT,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 7000 WX-Series,1,,
+AS -2115HV-TNRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 7000 WX-Series,1,,
+AS -2125HS-TNR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,4 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,,
+AS -2145GH-TNMR-LCC,AMD Instinct MI300A APU,"Liquid cooling, Passive",Onboard,4 GPU,Onboard,AMD Instinct™ MI300A Accelerated Processing Units (APUs),4,,
+AS -3015A-I,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -3015A-I,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -3015A-I,NVIDIA PCIe RTX 4070,,,1 GPU,,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -3015A-I,AMD PCIe Radeon Pro W7800,,,1 GPU,,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -3015A-I,AMD PCIe Radeon Pro W7500,,,1 GPU,,AMD EPYC™ 4004 Series Processor,1,Supermicro Validated,
+AS -3015MR-H10TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU per node,Single Width,AMD EPYC™ 4004 Series Processor,1 per node,,
+AS -3015MR-H10TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU per node,Single Width,AMD EPYC™ 4004 Series Processor,1 per node,,
+AS -3015MR-H10TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU per node,Single Width,AMD EPYC™ 4004 Series Processor,1 per node,,
+AS -3015MR-H8TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU per node,Single Width,AMD EPYC™ 4004 Series Processor,1 per node,Supermicro Validated,
+AS -3015MR-H8TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU per node,Single Width,AMD EPYC™ 4004 Series Processor,1 per node,NVIDIA-Qualified,
+AS -3015MR-H8TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU per node,Single Width,AMD EPYC™ 4004 Series Processor,1 per node,Supermicro Validated,
+AS -4023S-TRT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,
+AS -4023S-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,x5
+AS -4023S-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,5 GPU,Single Width,AMD EPYC™ 7001/7002 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR,NVIDIA PCIe A10,Passive,PCIe 4.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,c3
+AS -4124GS-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,
+AS -4124GS-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,
+AS -4124GS-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Certified,
+AS -4124GS-TNR,NVIDIA PCIe L40S,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR,AMD PCIe Instinct MI100,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,c3
+AS -4124GS-TNR,AMD PCIe Instinct MI210,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,"c3,j"
+AS -4124GS-TNR,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,c3
+AS -4124GS-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,c3
+AS -4124GS-TNR,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,b
+AS -4124GS-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,
+AS -4124GS-TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR,NVIDIA PCIe V100,Passive,PCIe 3.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,c4
+AS -4124GS-TNR+,NVIDIA PCIe A10,Passive,PCIe 4.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,c3
+AS -4124GS-TNR+,NVIDIA PCIe A100,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe A2,Passive,PCIe 4.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe A16,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe A30,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe A40,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe H100,Passive,PCIe 5.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,i7
+AS -4124GS-TNR+,NVIDIA PCIe L40S,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,c3
+AS -4124GS-TNR+,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,NVIDIA-Qualified,"c3,j"
+AS -4124GS-TNR+,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,i7
+AS -4124GS-TNR+,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,b
+AS -4124GS-TNR+,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe T4,Passive,PCIe 3.0,8 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,
+AS -4124GS-TNR+,NVIDIA PCIe V100,Passive,PCIe 3.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,c4
+AS -4124GS-TNR+,NVIDIA PCIe L40,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,i7
+AS -4124GS-TNR+,AMD PCIe Instinct MI150,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,2,Supermicro Validated,"n1,c3"
+AS -4125GS-TNHR2-LCC,NVIDIA SXM HGX H100 8-GPU (80GB),Passive,SXM,8 GPU,Onboard,AMD EPYC™ 9004 Series Processors,2,,
+AS -4125GS-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe A30,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe A40,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe H100,Passive,PCIe 5.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe L40S,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,AMD PCIe Instinct MI210,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,
+AS -4125GS-TNRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,8 GPU,Single Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe RTX A5500,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,"h8,h7"
+AS -4125GS-TNRT,NVIDIA PCIe L40,Passive,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT,NVIDIA PCIe H100 NVL,Passive,PCIe 5.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,
+AS -4125GS-TNRT,NVIDIA PCIe RTX 4000 SFF Ada Generation,Active,PCIe 4.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,,
+AS -4125GS-TNRT1,NVIDIA PCIe A100,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,NVIDIA-Qualified,
+AS -4125GS-TNRT1,NVIDIA PCIe H100,Passive,PCIe 5.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,
+AS -4125GS-TNRT1,NVIDIA PCIe L40S,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,
+AS -4125GS-TNRT1,AMD PCIe Instinct MI210,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,
+AS -4125GS-TNRT1,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,
+AS -4125GS-TNRT1,NVIDIA PCIe L40,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,1,Supermicro Validated,
+AS -4125GS-TNRT2,NVIDIA PCIe A100,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,h7
+AS -4125GS-TNRT2,NVIDIA PCIe A30,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,,
+AS -4125GS-TNRT2,NVIDIA PCIe A40,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,h7
+AS -4125GS-TNRT2,NVIDIA PCIe H100,Passive,PCIe 5.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT2,NVIDIA PCIe L40S,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,
+AS -4125GS-TNRT2,AMD PCIe Instinct MI210,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,
+AS -4125GS-TNRT2,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,,
+AS -4125GS-TNRT2,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,,Single Width,AMD EPYC™ 9004 Series Processors,2,,
+AS -4125GS-TNRT2,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,,
+AS -4125GS-TNRT2,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,,
+AS -4125GS-TNRT2,NVIDIA PCIe L40,Passive,PCIe 4.0,10 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Qualified,
+AS -4125GS-TNRT2,NVIDIA PCIe H100 NVL,Passive,PCIe 5.0,8 GPU,Double Width,AMD EPYC™ 9004 Series Processors,2,Supermicro Validated,
+AS -4145GH-TNMR,AMD Instinct MI300A APU,"Liquid cooling, Passive",Onboard,4 GPU,Onboard,AMD Instinct™ MI300A Accelerated Processing Units (APUs),4,,
+AS -5014A-TT,NVIDIA PCIe RTX 3090,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,Supermicro Validated,
+AS -5014A-TT,NVIDIA PCIe RTX 4080,Active,PCIe 4.0,1 GPU,Triple Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,Supermicro Validated,
+AS -5014A-TT,NVIDIA PCIe RTX 4090,Active,PCIe 4.0,1 GPU,Triple Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,Supermicro Validated,w8
+AS -5014A-TT,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,NVIDIA-Qualified,w3
+AS -5014A-TT,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,NVIDIA-Qualified,
+AS -5014A-TT,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,NVIDIA-Qualified,w3
+AS -5014A-TT,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,NVIDIA-Certified,
+AS -5014A-TT,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,NVIDIA-Qualified,w3
+AS -5014A-TT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,NVIDIA-Qualified,w3
+AS -5014A-TT,AMD PCIe Radeon Pro W6800,Active,PCIe 4.0,4 GPU,Double Width,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,Supermicro Validated,w3
+AS -5014A-TT,AMD PCIe Radeon Pro W7800,,,4 GPU,,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,Supermicro Validated,w3
+AS -5014A-TT,AMD PCIe Radeon Pro W7500,,,4 GPU,,AMD Ryzen™ Threadripper™ PRO 3000/5000 WX-Series,1,Supermicro Validated,
+AS -8125GS-TNHR,NVIDIA SXM HGX H100 8-GPU (80GB),Passive,SXM,1 GPU,Onboard,AMD EPYC™ 9004 Series Processors,2,NVIDIA-Certified,
+AS -8125GS-TNMR2,AMD Instinct MI300X Accelerators,Passive,Onboard,8 GPU,Onboard,AMD EPYC™ 9004 Series Processors,2,,
+AS -C531i-11102U,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,AMD Ryzen 7 8700G,1,,
+AS -C531i-11102U,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,AMD Ryzen 7 8700G,1,,
+AS -C531i-11102U,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,AMD Ryzen 7 8700G,1,,
+AS -C531i-11102U,NVIDIA PCIe RTX 4070,,,,,AMD Ryzen 7 8700G,1,,
+AS -C531i-11102U,AMD PCIe Radeon Pro W7800,,,,,AMD Ryzen 7 8700G,1,,
+SBA-4119SG,NVIDIA PCIe A10,Passive,PCIe 4.0,1 GPU,Single Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Certified,
+SBA-4119SG,NVIDIA PCIe A100,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,
+SBA-4119SG,NVIDIA PCIe A16,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Qualified,
+SBA-4119SG,NVIDIA PCIe A40,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,NVIDIA-Certified,
+SBA-4119SG,NVIDIA PCIe L40S,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,
+SBA-4119SG,AMD PCIe Instinct MI100,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,
+SBA-4119SG,AMD PCIe Instinct MI210,Passive,PCIe 4.0,1 GPU,Double Width,AMD EPYC™ 7002/7003 Series Processors,1,Supermicro Validated,
+SBI-4119MG-X,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,2 GPU,Double Width,Intel® Xeon® E-2200,1,Supermicro Validated,
+SBI-4119MG-X,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,Intel® Xeon® E-2200,1,Supermicro Validated,
+SBI-4119MG-X,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,Intel® Xeon® E-2200,1,NVIDIA-Qualified,
+SBI-4119MG-X,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,Intel® Xeon® E-2200,1,Supermicro Validated,
+SBI-411E-1G,NVIDIA PCIe A10,Passive,PCIe 4.0,,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-411E-1G,NVIDIA PCIe A40,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-411E-1G,NVIDIA PCIe H100,Passive,PCIe 5.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SBI-411E-1G,NVIDIA PCIe L4,Passive,PCIe 4.0,,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SBI-411E-1G,AMD PCIe Instinct MI210,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-411E-1G,Intel PCIe Intel Data Center GPU Flex 170,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SBI-411E-1G,NVIDIA PCIe L40,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SBI-411E-1G,Intel PCIe Data Center GPU Max 1100,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SBI-411E-5G,NVIDIA PCIe A10,Passive,PCIe 4.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-411E-5G,NVIDIA PCIe A100,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-411E-5G,NVIDIA PCIe A40,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-411E-5G,NVIDIA PCIe H100,Passive,PCIe 5.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SBI-411E-5G,NVIDIA PCIe L40S,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-411E-5G,AMD PCIe Instinct MI210,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1C2N,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1C2N,NVIDIA PCIe A100,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1C2N,NVIDIA PCIe A40,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1C2N,NVIDIA PCIe H100,Passive,PCIe 5.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1C2N,NVIDIA PCIe L40S,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1C2N,AMD PCIe Instinct MI100,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1C2N,NVIDIA PCIe L40,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,NVIDIA PCIe A100,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,NVIDIA PCIe A40,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,NVIDIA PCIe H100,Passive,PCIe 5.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SBI-611E-1T2N,NVIDIA PCIe L40S,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,AMD PCIe Instinct MI100,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,NVIDIA PCIe L40,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-1T2N,Intel PCIe Data Center GPU Max 1100,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SBI-611E-5T2N,NVIDIA PCIe A10,Passive,PCIe 4.0,4 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SBI-611E-5T2N,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-5T2N,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-5T2N,NVIDIA PCIe H100,Passive,PCIe 5.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SBI-611E-5T2N,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-5T2N,AMD PCIe Instinct MI100,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SBI-611E-5T2N,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-1019D-FHN13TP,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,Intel® Xeon® D-2100,1,NVIDIA-Qualified,
+SYS-1019GP-TT,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-1019GP-TT,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,j
+SYS-1019GP-TT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,"a1,j"
+SYS-1019GP-TT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,a1
+SYS-1019GP-TT,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,a1
+SYS-1019GP-TT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-1019GP-TT,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-1019GP-TT,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-1019P-FHN2T,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-1019P-WTR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-1029GP-TR,NVIDIA PCIe A100,Passive,PCIe 4.0,3 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-1029GP-TR,NVIDIA PCIe M10,Passive,PCIe 3.0,3 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"k,j"
+SYS-1029GP-TR,NVIDIA PCIe T4,Passive,PCIe 3.0,4 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-1029GP-TR,NVIDIA PCIe V100,Passive,PCIe 3.0,3 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,m
+SYS-1029GP-TR,NVIDIA PCIe V100S,Passive,PCIe 3.0,3 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,m
+SYS-1029GQ-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029GQ-TNRT,NVIDIA PCIe M10,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,k
+SYS-1029GQ-TNRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"a1,j"
+SYS-1029GQ-TNRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,a1
+SYS-1029GQ-TNRT,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,a1
+SYS-1029GQ-TNRT,NVIDIA PCIe T4,Passive,PCIe 3.0,4 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029GQ-TNRT,NVIDIA PCIe V100,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029GQ-TNRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029GQ-TRT,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-1029GQ-TRT,NVIDIA PCIe M10,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,k
+SYS-1029GQ-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"a1,j"
+SYS-1029GQ-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,a1
+SYS-1029GQ-TRT,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,a1
+SYS-1029GQ-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,4 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029GQ-TRT,NVIDIA PCIe V100,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029GQ-TRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029GQ-TVRT,NVIDIA PCIe V100,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029P-WT,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029P-WTR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029P-WTRT,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-E1CR25M,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR25M,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR25M,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR25M,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR25M,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-E1CR25M,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-E1CR4,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-E1CR4,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-E1CR4T,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4T,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CR4T,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-E1CR4T,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-E1CRT,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-E1CRT,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-E1CRTP,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-E1CRTP,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-E1CRTP2,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP2,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP2,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP2,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-E1CRTP2,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-E1CRTP2,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-TN10RT,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TN10RT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TN10RT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TN10RT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TN10RT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-TN10RT,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-TR25M,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR25M,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR25M,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR25M,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR25M,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-TR25M,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-TR4,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-TR4,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-TR4T,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4T,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TR4T,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-TR4T,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-TRT,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"h,c,b"
+SYS-1029U-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-TRT,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-TRTP,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-TRTP,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-1029U-TRTP2,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP2,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP2,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP2,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-1029U-TRTP2,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-1029U-TRTP2,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-110D-14C-FRAN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-14C-FRDN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-16C-FRAN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-16C-FRDN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-20C-FRAN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,NVIDIA-Qualified,g10
+SYS-110D-20C-FRDN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-4C-FRAN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-4C-FRDN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-8C-FRAN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110D-8C-FRDN8TP,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Processor D-2700 Series,1,Supermicro Validated,g10
+SYS-110P-WR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-110P-WR,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-110P-WTR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-110P-WTR,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-110P-WTR,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-110T-M,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-110T-M,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-111C-NR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-111C-NR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-111C-NR,NVIDIA PCIe T1000,Active,PCIe 3.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SYS-111E-WR,NVIDIA PCIe A10,Passive,PCIe 4.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-111E-WR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-111E-WR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-111E-WR,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-112B-FDWR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® 6 6700 series processors with E-cores,1,,
+SYS-112B-FDWR,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® 6 6700 series processors with E-cores,1,,
+SYS-112B-FWT,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® 6 6700 series processors with E-cores,1,,
+SYS-112B-FWT,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® 6 6700 series processors with E-cores,1,,
+SYS-120C-TN10R,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b1
+SYS-120C-TN10R,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,,
+SYS-120C-TN10R,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,,
+SYS-120C-TR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b1
+SYS-120C-TR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,,
+SYS-120C-TR,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,,
+SYS-120GQ-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,h10
+SYS-120GQ-TNRT,NVIDIA PCIe A2,Passive,PCIe 4.0,4 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b8
+SYS-120GQ-TNRT,NVIDIA PCIe A16,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-120GQ-TNRT,NVIDIA PCIe A30,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-120GQ-TNRT,NVIDIA PCIe A40,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,h9
+SYS-120GQ-TNRT,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"b10,b9"
+SYS-120GQ-TNRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b10
+SYS-120U-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,1 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"M1,D3,C1U1,T8,1UA"
+SYS-120U-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"M1,D3,C1U2,T6,1UE-1"
+SYS-120U-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,1 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D3,C1U1,T8,1UA"
+SYS-120U-TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"M1,D3,T5"
+SYS-121C-TN10R,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-121C-TN10R,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-121C-TN10R,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-121C-TN2R,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-121C-TN2R,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-121C-TN2R,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-121H-TNR,NVIDIA PCIe H100,Passive,PCIe 5.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"t9,M1"
+SYS-121H-TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,T6
+SYS-121H-TNR,NVIDIA PCIe L40S,Passive,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"t9,M1"
+SYS-121H-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,T3
+SYS-121H-TNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,T2
+SYS-2029GP-TR,NVIDIA PCIe A100,Passive,PCIe 4.0,6 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-2029GP-TR,NVIDIA PCIe M10,Passive,PCIe 3.0,6 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"k,j"
+SYS-2029GP-TR,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-2029GP-TR,NVIDIA PCIe V100,Passive,PCIe 3.0,6 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n
+SYS-2029GP-TR,NVIDIA PCIe V100S,Passive,PCIe 3.0,6 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n
+SYS-2029P-TXRT,NVIDIA PCIe T4,Passive,PCIe 3.0,8 GPU,Single Width,Intel® Xeon® E3-1200 v4/v3,2,NVIDIA-Qualified,
+SYS-2029U-E1CR25M,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-E1CR25M,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,b"
+SYS-2029U-E1CR25M,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR25M,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR25M,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR25M,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR25M,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-E1CR4,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,b"
+SYS-2029U-E1CR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4T,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-E1CR4T,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,b"
+SYS-2029U-E1CR4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4T,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4T,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CR4T,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRT,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-E1CRT,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,b"
+SYS-2029U-E1CRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRT,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRT,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRTP,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-E1CRTP,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,b"
+SYS-2029U-E1CRTP,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRTP,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRTP,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRTP,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-E1CRTP,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TN24R4T,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,e,a"
+SYS-2029U-TN24R4T,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,e,b"
+SYS-2029U-TN24R4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"l,h,b"
+SYS-2029U-TN24R4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"l,h,b"
+SYS-2029U-TN24R4T,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR25M,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-TR25M,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-2029U-TR25M,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR25M,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR25M,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR25M,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TR25M,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TR4,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-TR4,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-2029U-TR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR4,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR4,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TR4,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TR4T,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-TR4T,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-2029U-TR4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR4T,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TR4T,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TR4T,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TRT,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-TRT,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-2029U-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TRT,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TRTP,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-2029U-TRTP,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-2029U-TRTP,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TRTP,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TRTP,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-2029U-TRTP,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-2029U-TRTP,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,g,d,a"
+SYS-210GP-DNR,NVIDIA PCIe A10,Passive,PCIe 4.0,3 GPU per node,Single Width,3rd Gen Intel® Xeon® Scalable processors,1 per node,NVIDIA-Qualified,b7
+SYS-210GP-DNR,NVIDIA PCIe A100,Passive,PCIe 4.0,3 GPU per node,Double Width,3rd Gen Intel® Xeon® Scalable processors,1 per node,NVIDIA-Certified,
+SYS-210GP-DNR,NVIDIA PCIe A30,Passive,PCIe 4.0,3 GPU per node,Double Width,3rd Gen Intel® Xeon® Scalable processors,1 per node,NVIDIA-Certified,b5
+SYS-210GP-DNR,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU per node,Double Width,3rd Gen Intel® Xeon® Scalable processors,1 per node,NVIDIA-Certified,b5
+SYS-210GP-DNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,3 GPU per node,Single Width,3rd Gen Intel® Xeon® Scalable processors,1 per node,NVIDIA-Qualified,b7
+SYS-210GP-DNR,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,3 GPU per node,Double Width,3rd Gen Intel® Xeon® Scalable processors,1 per node,Supermicro Validated,
+SYS-210GP-DNR,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU per node,Double Width,3rd Gen Intel® Xeon® Scalable processors,1 per node,Supermicro Validated,
+SYS-211E-FRDN2T,NVIDIA PCIe A2,Passive,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SYS-211E-FRDN2T,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-211E-FRN2T,NVIDIA PCIe A2,Passive,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SYS-211E-FRN2T,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-220BT-DNTR,NVIDIA PCIe A10,Passive,PCIe 4.0,1 GPU per node,Single Width,3rd Gen Intel® Xeon® Scalable processors,2 per node,Supermicro Validated,
+SYS-220BT-DNTR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU per node,Single Width,3rd Gen Intel® Xeon® Scalable processors,2 per node,Supermicro Validated,
+SYS-220BT-HNTR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU per node,Single Width,3rd Gen Intel® Xeon® Scalable processors,2 per node,Supermicro Validated,
+SYS-220GP-TNR,NVIDIA PCIe A10,Passive,PCIe 4.0,6 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,n5
+SYS-220GP-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,6 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-220GP-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,6 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,c11
+SYS-220GP-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,6 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,a8
+SYS-220GP-TNR,NVIDIA PCIe A30,Passive,PCIe 4.0,6 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,n6
+SYS-220GP-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,6 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,n7
+SYS-220GP-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-220GP-TNR,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-220GP-TNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-220GP-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-220GP-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,6 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-220GQ-TNAR+,NVIDIA SXM HGX A100 4-GPU (80GB),Passive,SXM,4 GPU,Onboard,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-220HE-FTNR,NVIDIA PCIe A10,Passive,PCIe 4.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i10,i8"
+SYS-220HE-FTNR,NVIDIA PCIe A100,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i9,i8"
+SYS-220HE-FTNR,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i13,i8"
+SYS-220HE-FTNR,NVIDIA PCIe T4,Passive,PCIe 3.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i12,i11,i8"
+SYS-220HE-FTNRD,NVIDIA PCIe A10,Passive,PCIe 4.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i10,i8"
+SYS-220HE-FTNRD,NVIDIA PCIe A100,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i9,i8"
+SYS-220HE-FTNRD,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i13,i8"
+SYS-220HE-FTNRD,NVIDIA PCIe T4,Passive,PCIe 3.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i12,i11,i8"
+SYS-220HE-TNR,NVIDIA PCIe A10,Passive,PCIe 4.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i10,i8"
+SYS-220HE-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i9,i8"
+SYS-220HE-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i13,i8"
+SYS-220HE-TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i12,i11,i8"
+SYS-220HE-TNRD,NVIDIA PCIe A10,Passive,PCIe 4.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i10,i8"
+SYS-220HE-TNRD,NVIDIA PCIe A100,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i9,i8"
+SYS-220HE-TNRD,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i13,i8"
+SYS-220HE-TNRD,NVIDIA PCIe T4,Passive,PCIe 3.0,3 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i12,i11,i8"
+SYS-220U-MTNR,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"C2U2,T2,2UH"
+SYS-220U-MTNR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"C2U1,T4,T2,2UA"
+SYS-220U-MTNR,NVIDIA PCIe A2,Passive,PCIe 4.0,5 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"T6,2UE-1"
+SYS-220U-MTNR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"C2U1,T4,T2,2UG"
+SYS-220U-MTNR,NVIDIA PCIe A30,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"C2U2,T4,T2,2UG"
+SYS-220U-MTNR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"C2U1,T2,2UG"
+SYS-220U-MTNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,2UC
+SYS-220U-MTNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,2UB
+SYS-220U-MTNR,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"T6,2UE-1"
+SYS-220U-TNR,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"C2U2,T2,2UD"
+SYS-220U-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"C2U1,T5,2UA"
+SYS-220U-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,5 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"T6,2UE-1"
+SYS-220U-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"C2U1,T5,2UA"
+SYS-220U-TNR,NVIDIA PCIe A30,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"C2U2,T5,2UA"
+SYS-220U-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"C2U1,T5,2UA"
+SYS-220U-TNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"C2U2,T3,2UC"
+SYS-220U-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"C2U2,T3,2UB"
+SYS-220U-TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"T6,2UE-1"
+SYS-221GE-NR,NVIDIA PCIe H100,Passive,PCIe 5.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-221GE-NR,NVIDIA PCIe L40S,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-221GE-NR,NVIDIA PCIe H100 NVL,Passive,PCIe 5.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-221GE-TNHT-LCC,NVIDIA SXM HGX H100 4-GPU (80GB),"Liquid cooling, Passive",SXM,4 GPU,Onboard,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-221H-TN24R,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t10
+SYS-221H-TN24R,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t13
+SYS-221H-TN24R,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,t13
+SYS-221H-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t12
+SYS-221H-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t13
+SYS-221H-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t10
+SYS-221H-TNR,NVIDIA PCIe H100,Passive,PCIe 5.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,T11
+SYS-221H-TNR,NVIDIA PCIe L40S,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t12
+SYS-221H-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t12
+SYS-221H-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t13
+SYS-221H-TNR,NVIDIA PCIe L40,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t12
+SYS-221HE-FTNR,NVIDIA PCIe A10,Passive,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNR,NVIDIA PCIe A2,Passive,PCIe 4.0,8 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNR,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,e8
+SYS-221HE-FTNR,NVIDIA PCIe H100,Passive,PCIe 5.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNR,NVIDIA PCIe L40S,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNR,Intel PCIe Intel Data Center GPU Flex 170,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-221HE-FTNR,NVIDIA PCIe L40,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNRD,NVIDIA PCIe A10,Passive,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNRD,NVIDIA PCIe A2,Passive,PCIe 4.0,8 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNRD,NVIDIA PCIe A40,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,e8
+SYS-221HE-FTNRD,NVIDIA PCIe H100,Passive,PCIe 5.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNRD,NVIDIA PCIe L40S,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-FTNRD,Intel PCIe Intel Data Center GPU Flex 170,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-221HE-FTNRD,NVIDIA PCIe L40,Passive,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,8 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNRD,NVIDIA PCIe A2,Passive,PCIe 4.0,8 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNRD,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNRD,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-221HE-TNRD,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,3 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-240P-TNRT,NVIDIA PCIe A16,Passive,PCIe 4.0,1 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,4,NVIDIA-Qualified,
+SYS-240P-TNRT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,4,Supermicro Validated,
+SYS-240P-TNRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,1 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,4,NVIDIA-Qualified,
+SYS-241E-TNRTTP,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,4th Gen Intel® Xeon® Scalable processors,4,Supermicro Validated,
+SYS-241H-TNRTTP,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,4th Gen Intel® Xeon® Scalable processors,4,Supermicro Validated,
+SYS-241H-TNRTTP,NVIDIA PCIe H100,Passive,PCIe 5.0,2 GPU,Double Width,4th Gen Intel® Xeon® Scalable processors,4,NVIDIA-Qualified,
+SYS-241H-TNRTTP,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,4th Gen Intel® Xeon® Scalable processors,4,Supermicro Validated,
+SYS-241H-TNRTTP,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,4th Gen Intel® Xeon® Scalable processors,4,NVIDIA-Qualified,
+SYS-241H-TNRTTP,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,4th Gen Intel® Xeon® Scalable processors,4,Supermicro Validated,
+SYS-241H-TNRTTP,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU,Double Width,4th Gen Intel® Xeon® Scalable processors,4,NVIDIA-Qualified,
+SYS-4029GP-TRT,NVIDIA PCIe A10,Passive,PCIe 4.0,8 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT,NVIDIA PCIe A100,Passive,PCIe 4.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-4029GP-TRT,NVIDIA PCIe A40,Passive,PCIe 4.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,8 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,a1
+SYS-4029GP-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"a1,j"
+SYS-4029GP-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,a1
+SYS-4029GP-TRT,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,a1
+SYS-4029GP-TRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,8 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT,NVIDIA PCIe V100,Passive,PCIe 3.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-4029GP-TRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,j
+SYS-4029GP-TRT2,NVIDIA PCIe A10,Passive,PCIe 4.0,10 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT2,NVIDIA PCIe A100,Passive,PCIe 4.0,10 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT2,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,10 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"a1,j"
+SYS-4029GP-TRT2,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,10 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,a1
+SYS-4029GP-TRT2,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,10 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,a1
+SYS-4029GP-TRT2,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,10 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT2,NVIDIA PCIe T4,Passive,PCIe 3.0,10 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT2,NVIDIA PCIe V100,Passive,PCIe 3.0,10 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-4029GP-TRT2,NVIDIA PCIe V100S,Passive,PCIe 3.0,10 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,j
+SYS-4029GP-TRT3,NVIDIA PCIe T4,Passive,PCIe 3.0,9 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-4029GP-TRT3,NVIDIA PCIe V100,Passive,PCIe 3.0,9 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-4029GP-TRT3,NVIDIA PCIe V100S,Passive,PCIe 3.0,9 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,j
+SYS-4029GP-TVRT,NVIDIA PCIe V100,Passive,PCIe 3.0,8 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-420GP-TNAR,NVIDIA SXM HGX A100 8-GPU (80GB),"Liquid cooling, Passive",SXM,8 GPU,Onboard,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-420GP-TNAR+,NVIDIA SXM HGX A100 8-GPU (80GB),"Liquid cooling, Passive",SXM,8 GPU,Onboard,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GP-TNR,NVIDIA PCIe A10,Passive,PCIe 4.0,10 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-420GP-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-420GP-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,10 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GP-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GP-TNR,NVIDIA PCIe A30,Passive,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-420GP-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-420GP-TNR,NVIDIA PCIe H100,Passive,PCIe 5.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GP-TNR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-420GP-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,10 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GP-TNR,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,i6
+SYS-420GP-TNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GP-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GP-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-420GP-TNR,Intel PCIe Intel Data Center GPU Flex 170,Passive,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-420GP-TNR,NVIDIA PCIe RTX A5500,Active,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,i6
+SYS-420GP-TNR,NVIDIA PCIe L40,Passive,PCIe 4.0,10 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-420GU-TNXR,NVIDIA SXM HGX A100 4-GPU (80GB),Passive,SXM,4 GPU,Onboard,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,x10
+SYS-420GU-TNXR (in 4U),NVIDIA SXM HGX A100 4-GPU (80GB),Passive,SXM,4 GPU,Onboard,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-420GU-TNXR (in 5U),NVIDIA SXM HGX A100 4-GPU (80GB),Passive,SXM,4 GPU,Onboard,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-421GE-TNHR2-LCC,NVIDIA SXM HGX H100 8-GPU (80GB),Passive,SXM,8 GPU,Onboard,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-421GE-TNRT,NVIDIA PCIe A10,Passive,PCIe 4.0,8 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,i5
+SYS-421GE-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-421GE-TNRT,NVIDIA PCIe H100,Passive,PCIe 5.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-421GE-TNRT,NVIDIA PCIe L40S,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-421GE-TNRT,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-421GE-TNRT,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,8 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-421GE-TNRT,NVIDIA PCIe L40,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-421GE-TNRT,Intel PCIe Data Center GPU Max 1100,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-421GE-TNRT3,NVIDIA PCIe A100,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-421GE-TNRT3,NVIDIA PCIe H100,Passive,PCIe 5.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-421GE-TNRT3,NVIDIA PCIe L40S,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-421GE-TNRT3,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-421GE-TNRT3,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,8 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,i5
+SYS-421GU-TNXR,NVIDIA SXM HGX H100 4-GPU (80GB),"Liquid cooling, Passive",SXM,4 GPU,Onboard,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-5019D-FN8TP,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® D-2100,1,NVIDIA-Qualified,
+SYS-5019GP-TT,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-5019GP-TT,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,j
+SYS-5019GP-TT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,"a1,j"
+SYS-5019GP-TT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,a1
+SYS-5019GP-TT,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,a1
+SYS-5019GP-TT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-5019GP-TT,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-5019GP-TT,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-5019P-WT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-5019P-WTR,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-5039A-I,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,Intel® Xeon® W Processor,1,Supermicro Validated,y
+SYS-5039A-I,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,Intel® Xeon® W Processor,1,Supermicro Validated,y
+SYS-5039A-I,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,Intel® Xeon® W Processor,1,NVIDIA-Qualified,y
+SYS-5039A-I,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,Intel® Xeon® W Processor,1,Supermicro Validated,y
+SYS-5039A-I,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,Intel® Xeon® W Processor,1,Supermicro Validated,y
+SYS-5039AD-I,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,Intel® Core™ X-Series LGA2066 Processors,1,Supermicro Validated,w
+SYS-5039AD-I,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,Intel® Core™ X-Series LGA2066 Processors,1,Supermicro Validated,w
+SYS-5039AD-I,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,Intel® Core™ X-Series LGA2066 Processors,1,Supermicro Validated,x5
+SYS-5039AD-I,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,Intel® Core™ X-Series LGA2066 Processors,1,Supermicro Validated,x5
+SYS-5039C-T,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® E-2200,1,Supermicro Validated,z
+SYS-5039C-T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,Intel® Xeon® E-2200,1,Supermicro Validated,z
+SYS-5039MC-H8TRF,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU per node,Single Width,Intel® Pentium®,1 per node,Supermicro Validated,
+SYS-5039MC-H8TRF,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU per node,Single Width,Intel® Pentium®,1 per node,Supermicro Validated,
+SYS-5049A-T,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,z
+SYS-5049A-T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,z
+SYS-5049A-T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,z
+SYS-5049A-T,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,z
+SYS-5049A-TR,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,4 GPU,Single Width,Intel® Xeon® W Processor,1,Supermicro Validated,j
+SYS-5049A-TR,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,4 GPU,Double Width,Intel® Xeon® W Processor,1,Supermicro Validated,j
+SYS-5049A-TR,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,4 GPU,Double Width,Intel® Xeon® W Processor,1,NVIDIA-Qualified,
+SYS-5049A-TR,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,4 GPU,Double Width,Intel® Xeon® W Processor,1,NVIDIA-Qualified,
+SYS-510P-M,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-510P-MR,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-510P-WT,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-510P-WT,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-510P-WT,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-510P-WTR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-510P-WTR,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,,
+SYS-510T-M,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-510T-M,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-510T-MR,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-510T-MR,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-510T-WTR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-510T-WTR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-510T-WTR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® E-2300 series Processors and 10th Gen. Pentium® Processors,1,,
+SYS-511E-WR,NVIDIA PCIe A10,Passive,PCIe 4.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-511E-WR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-511E-WR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-511E-WR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-511R-W,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® E-2400 series Processors and 12th Gen. Pentium® Processors,1,,
+SYS-511R-W,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,Intel® Xeon® E-2400 series Processors and 12th Gen. Pentium® Processors,1,,
+SYS-511R-W,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® E-2400 series Processors and 12th Gen. Pentium® Processors,1,,
+SYS-511R-W,NVIDIA PCIe L40,Passive,PCIe 4.0,1 GPU,Double Width,Intel® Xeon® E-2400 series Processors and 12th Gen. Pentium® Processors,1,,
+SYS-520P-WTR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,Intel® Xeon® Scalable Processors,1,,
+SYS-520P-WTR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,Intel® Xeon® Scalable Processors,1,,
+SYS-520P-WTR,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® Scalable Processors,1,,
+SYS-520P-WTR,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,Intel® Xeon® Scalable Processors,1,,
+SYS-521C-NR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521C-NR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SYS-521C-NR,NVIDIA PCIe A30,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SYS-521C-NR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SYS-521C-NR,NVIDIA PCIe H100,Passive,PCIe 5.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SYS-521C-NR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,
+SYS-521C-NR,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521C-NR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,,
+SYS-521C-NR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521C-NR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521C-NR,NVIDIA PCIe T1000,Active,PCIe 3.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521C-NR,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521E-WR,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521E-WR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521E-WR,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521E-WR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,1 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521E-WR,NVIDIA PCIe T400,Active,PCIe 3.0,1 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,
+SYS-521GE-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-521GE-TNRT,NVIDIA PCIe H100,Passive,PCIe 5.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-521GE-TNRT,NVIDIA PCIe L40S,Passive,PCIe 4.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-521GE-TNRT,NVIDIA PCIe H100 NVL,Passive,PCIe 5.0,8 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-530MT-H8TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,1 GPU per node,Single Width,Intel® Xeon® processor E-2300 series and 10th Gen. Pentium® Processors,1 per node,NVIDIA-Qualified,
+SYS-530MT-H8TNR,NVIDIA PCIe L4,Passive,PCIe 4.0,1 GPU per node,Single Width,Intel® Xeon® processor E-2300 series and 10th Gen. Pentium® Processors,1 per node,NVIDIA-Qualified,
+SYS-530MT-H8TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU per node,Single Width,Intel® Xeon® processor E-2300 series and 10th Gen. Pentium® Processors,1 per node,NVIDIA-Qualified,
+SYS-531A-I,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,2 GPU,Double Width,Intel® Xeon® W-2400 processors,1,NVIDIA-Qualified,
+SYS-531A-I,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,2 GPU,Double Width,Intel® Xeon® W-2400 processors,1,NVIDIA-Qualified,
+SYS-531A-I,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,Intel® Xeon® W-2400 processors,1,NVIDIA-Qualified,
+SYS-531A-I,NVIDIA PCIe RTX A5500,Active,PCIe 4.0,2 GPU,Double Width,Intel® Xeon® W-2400 processors,1,NVIDIA-Qualified,
+SYS-531A-IL,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,1 GPU,Double Width,14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3 Processors,1,NVIDIA-Qualified,
+SYS-531A-IL,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,1 GPU,Single Width,14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3 Processors,1,Supermicro Validated,
+SYS-531A-IL,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,1 GPU,Double Width,14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3 Processors,1,NVIDIA-Qualified,
+SYS-531A-IL,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,1 GPU,Double Width,14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3 Processors,1,Supermicro Validated,
+SYS-531A-IL,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,1 GPU,Double Width,14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3 Processors,1,NVIDIA-Qualified,y1
+SYS-531A-IL,NVIDIA PCIe T1000,Active,PCIe 3.0,1 GPU,Single Width,14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3 Processors,1,Supermicro Validated,
+SYS-531A-IL,NVIDIA PCIe RTX A5500,Active,PCIe 4.0,1 GPU,Double Width,14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3 Processors,1,NVIDIA-Qualified,
+SYS-531AD-I,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,,Single Width,"14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3, Pentium® and Celeron® Processors",1,,
+SYS-531AD-I,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,1 GPU,Double Width,"14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3, Pentium® and Celeron® Processors",1,,
+SYS-531AD-I,NVIDIA PCIe RTX A5500,Active,PCIe 4.0,1 GPU,Double Width,"14th/13th/12th Gen Intel® Core™ i9/i7/i5/i3, Pentium® and Celeron® Processors",1,,
+SYS-540A-TR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,j
+SYS-540A-TR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,1,Supermicro Validated,j
+SYS-540A-TR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,1,NVIDIA-Certified,
+SYS-551A-T,NVIDIA PCIe RTX 4080,Active,PCIe 4.0,2 GPU,Triple Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe RTX 4090,Active,PCIe 4.0,2 GPU,Triple Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,4 GPU,Double Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,4 GPU,Double Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,4 GPU,Double Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,4 GPU,Double Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,Intel® Xeon® W-3400 processors,1,,
+SYS-551A-T,NVIDIA PCIe T1000,Active,PCIe 3.0,4 GPU,Single Width,Intel® Xeon® W-3400 processors,1,,
+SYS-6019P-WT,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019P-WTR,NVIDIA PCIe T4,Passive,PCIe 3.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TN4RT,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TN4RT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TN4RT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TN4RT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TN4RT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TN4RT,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-6019U-TR25M,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR25M,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR25M,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR25M,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR25M,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TR25M,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-6019U-TR4,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TR4,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-6019U-TR4T,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4T,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TR4T,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TR4T,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-6019U-TRT,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRT,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"h,c,b"
+SYS-6019U-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TRT,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-6019U-TRTP,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TRTP,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-6019U-TRTP2,NVIDIA PCIe M10,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP2,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,1 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP2,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP2,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,c,b"
+SYS-6019U-TRTP2,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6019U-TRTP2,NVIDIA PCIe V100,Passive,PCIe 3.0,1 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,c,a"
+SYS-6029P-WTR,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029P-WTRT,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR25M,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-E1CR25M,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,f,d,b"
+SYS-6029U-E1CR25M,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR25M,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR25M,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR25M,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR25M,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-E1CR4,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,f,d,b"
+SYS-6029U-E1CR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4T,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-E1CR4T,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,f,d,b"
+SYS-6029U-E1CR4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4T,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4T,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CR4T,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRT,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-E1CRT,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,f,d,b"
+SYS-6029U-E1CRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRT,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRT,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRTP,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-E1CRTP,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,f,d,b"
+SYS-6029U-E1CRTP,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRTP,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRTP,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRTP,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-E1CRTP,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR25M,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-TR25M,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-6029U-TR25M,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR25M,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR25M,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR25M,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TR25M,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TR4,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-TR4,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-6029U-TR4,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR4,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR4,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR4,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TR4,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TR4T,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-TR4T,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-6029U-TR4T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR4T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR4T,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TR4T,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TR4T,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TRT,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-TRT,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-6029U-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TRT,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TRTP,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,a"
+SYS-6029U-TRTP,NVIDIA PCIe M10,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"h,d,b"
+SYS-6029U-TRTP,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TRTP,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TRTP,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-6029U-TRTP,NVIDIA PCIe V100,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6029U-TRTP,NVIDIA PCIe V100S,Passive,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"i,f,d,a"
+SYS-6049GP-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,20 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,a7
+SYS-6049GP-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,20 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,a7
+SYS-6049GP-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,20 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-610C-TR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b1
+SYS-610C-TR,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,,
+SYS-610C-TR,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,,
+SYS-610U-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,1 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"M1,D2,C1U1,T8,1UA"
+SYS-610U-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"M1,D2,C1U2,T6,1UE-1"
+SYS-610U-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,1 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D2,C1U1,T8,1UA"
+SYS-610U-TNR,NVIDIA PCIe A30,Passive,PCIe 4.0,1 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"C1U1,T7,T1,1UA"
+SYS-610U-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"C1U2,T6,1UF"
+SYS-610U-TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"M1,D2,T5"
+SYS-611C-TN4R,NVIDIA PCIe A2,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-611C-TN4R,NVIDIA PCIe L4,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-611C-TN4R,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-620C-TN12R,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"g3,g1"
+SYS-620C-TN12R,NVIDIA PCIe A2,Passive,PCIe 4.0,6 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"e2,e1"
+SYS-620C-TN12R,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"g4,g3,g1"
+SYS-620C-TN12R,NVIDIA PCIe A30,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"g3,g1"
+SYS-620C-TN12R,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"g4,g3,g1"
+SYS-620C-TN12R,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"g4,g3,g1"
+SYS-620C-TN12R,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"g3,g1"
+SYS-620C-TN12R,Intel PCIe Intel Data Center GPU Flex 170,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"g6,g4,g3,g1"
+SYS-620U-TNR,NVIDIA PCIe A10,Passive,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D1,C2U2,T2,2UD"
+SYS-620U-TNR,NVIDIA PCIe A100,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"D1,C2U1,T2,2UA"
+SYS-620U-TNR,NVIDIA PCIe A2,Passive,PCIe 4.0,5 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D1,T6,2UE-1"
+SYS-620U-TNR,NVIDIA PCIe A16,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D1,C2U1,T4,T2,2UA"
+SYS-620U-TNR,NVIDIA PCIe A30,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,"D1,C2U2,T4,T2,2UA"
+SYS-620U-TNR,NVIDIA PCIe A40,Passive,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D1,C2U1,T2,2UA"
+SYS-620U-TNR,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D1,C2U2,2UC"
+SYS-620U-TNR,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"D1,C2U2,T3,2UC"
+SYS-620U-TNR,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D1,C2U2,T3,2UB"
+SYS-620U-TNR,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,"D1,T6,2UE-1"
+SYS-621C-TN12R,NVIDIA PCIe A2,Passive,PCIe 4.0,6 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,NVIDIA PCIe H100,Passive,PCIe 5.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,NVIDIA PCIe L4,Passive,PCIe 4.0,4 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,NVIDIA PCIe L40S,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,Intel PCIe Intel Data Center GPU Flex 170,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,h2
+SYS-621C-TN12R,NVIDIA PCIe L40,Passive,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621C-TN12R,Intel PCIe Intel Data Center GPU Flex 140,Passive,PCIe 4.0,6 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,h2
+SYS-621C-TN12R,NVIDIA PCIe H100 NVL,Passive,PCIe 5.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,h2
+SYS-621H-TN12R,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,t10
+SYS-621H-TN12R,NVIDIA PCIe A40,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,T8
+SYS-621H-TN12R,NVIDIA PCIe H100,Passive,PCIe 5.0,3 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,T3
+SYS-621H-TN12R,NVIDIA PCIe L40S,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,T8
+SYS-7039A-I,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,y
+SYS-7039A-I,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,y
+SYS-7039A-I,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,y
+SYS-7039A-I,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,y
+SYS-7039A-I,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-7039A-I,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-7049A-T,NVIDIA PCIe RTX 4000,Active,PCIe 4.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,z
+SYS-7049A-T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,z
+SYS-7049A-T,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,z
+SYS-7049A-T,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,z
+SYS-7049A-T,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-7049A-T,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-7049GP-TRT,NVIDIA PCIe A10,Passive,PCIe 4.0,4 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-7049GP-TRT,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-7049GP-TRT,NVIDIA PCIe A16,Passive,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-7049GP-TRT,NVIDIA PCIe A40,Passive,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-7049GP-TRT,NVIDIA PCIe M10,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"k,j"
+SYS-7049GP-TRT,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,j
+SYS-7049GP-TRT,NVIDIA PCIe RTX 6000,Active,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-7049GP-TRT,NVIDIA PCIe RTX 8000,Active,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-7049GP-TRT,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-7049GP-TRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-7049GP-TRT,NVIDIA PCIe T4,Passive,PCIe 3.0,6 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-7049GP-TRT,NVIDIA PCIe V100,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-7049GP-TRT,NVIDIA PCIe V100S,Passive,PCIe 3.0,4 GPU,Double Width,2nd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-730A-I,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-730A-I,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-730A-I,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-730A-I,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,n2
+SYS-740A-T,NVIDIA PCIe RTX 5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-740A-T,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,2 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-740A-T,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,n2
+SYS-740A-T,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,n2
+SYS-740GP-TNRT,NVIDIA PCIe A10,Passive,PCIe 4.0,4 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-740GP-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-740GP-TNRT,NVIDIA PCIe A16,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-740GP-TNRT,NVIDIA PCIe A30,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-740GP-TNRT,NVIDIA PCIe A40,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-740GP-TNRT,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-740GP-TNRT,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-740GP-TNRT,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-740GP-TNRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-740GP-TNRT,NVIDIA PCIe A40,Passive,PCIe 4.0,4 GPU,Double Width,3rd Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-741GE-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,b11
+SYS-741GE-TNRT,NVIDIA PCIe A30,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b11
+SYS-741GE-TNRT,NVIDIA PCIe H100,Passive,PCIe 5.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b11
+SYS-741GE-TNRT,NVIDIA PCIe L4,Passive,PCIe 4.0,4 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-741GE-TNRT,NVIDIA PCIe L40S,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b11
+SYS-741GE-TNRT,AMD PCIe Instinct MI210,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,b11
+SYS-741GE-TNRT,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-741GE-TNRT,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,4 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,b11
+SYS-741GE-TNRT,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,b11
+SYS-741GE-TNRT,NVIDIA PCIe RTX A5500,Active,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b11
+SYS-741GE-TNRT,NVIDIA PCIe L40,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,b11
+SYS-741GE-TNRT,NVIDIA PCIe H100 NVL,Passive,PCIe 5.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-741GE-TNRT,NVIDIA PCIe RTX 4000 Ada Generation,Active,PCIe 4.0,4 GPU,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Qualified,
+SYS-751A-I,NVIDIA PCIe RTX 6000 Ada Generation,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe RTX A2000,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe RTX A4000,Active,PCIe 4.0,,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe RTX A4500,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe RTX A5000,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe RTX A6000,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe T1000,Active,PCIe 3.0,,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe RTX A5500,Active,PCIe 4.0,2 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751A-I,NVIDIA PCIe T400,Active,PCIe 3.0,,Single Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,,
+SYS-751GE-TNRT,NVIDIA PCIe A100,Passive,PCIe 4.0,4 GPU,Double Width,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,"t12,e4"
+SYS-820GH-TNR2,Intel OAM Gaudi 2,,Onboard,,Onboard,3rd Gen Intel® Xeon® Scalable Processors,2,,
+SYS-821GE-TNHR,NVIDIA SXM HGX H100 8-GPU (80GB),Passive,SXM,8 GPU,Onboard,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,NVIDIA-Certified,
+SYS-821GV-TNR,Intel OAM Data Center GPU Max 1550,Passive,Onboard,8 GPU,Onboard,5th Gen Intel® Xeon®/4th Gen Intel® Xeon® Scalable processors,2,Supermicro Validated,
+SYS-E403-9D-16C-FN13TP,NVIDIA PCIe T4,Passive,PCIe 3.0,2 GPU,Single Width,Intel® Xeon® D-2100,1,NVIDIA-Qualified,
+SYS-E403-9P-FN2T,NVIDIA PCIe T4,Passive,PCIe 3.0,3 GPU,Single Width,2nd Gen Intel® Xeon® Scalable processors,1,NVIDIA-Qualified,

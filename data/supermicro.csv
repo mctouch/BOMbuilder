@@ -1,0 +1,524 @@
+﻿System Builder,Server Model,NVIDIA GPU,MAX GPU,CPU,MAX CPU,vGPU Certified, Validation Type,Price
+Supermicro,SYS-240P-TNRT,A16,2,Intel Cooper Lake,4,No,Qualified,192343.2286
+Supermicro,SYS-110P-WTR,A2,2,Intel Cascade Lake,1,No,Qualified,33802.23146
+Supermicro,SYS-120H-TNR,A2,3,Intel Ice Lake,2,No,Qualified,113371.4618
+Supermicro,SYS-220U-TNR / 620U-TNR,A2,2,Intel Ice Lake,2,No,Qualified,34359.15748
+Supermicro,SYS-2029GP-TR,A2,4,Intel Cascade Lake,2,No,Qualified,104760.1843
+Supermicro,SYS-620C-TN12R,A2,6,Intel Ice Lake,2,No,Qualified,56966.7074
+Supermicro,SYS-620U / 220U,A2,5,Intel Ice Lake,2,No,Qualified,118394.5079
+Supermicro,SYS-620H-TN12R,A2,8,Intel Ice Lake,2,No,Qualified,103842.8579
+Supermicro,SYS-510P-WTR,A2,2,Intel Ice Lake,1,No,Qualified,64759.27347
+Supermicro,SYS-530MT-H8TNR,A2,1,Intel Coffee Lake,1,No,Qualified,69935.95107
+Supermicro,SYS-420GP-TNR,A2,10,Intel Ice Lake,2,No,Qualified,101996.7981
+Supermicro,SYS-420GP-TNR2,A2,10,Intel Ice Lake,2,No,Qualified,133901.7181
+Supermicro,SYS-740GP-TNRT,A2,4,Intel Ice Lake,2,No,Qualified,52014.68824
+Supermicro,AS-1114CS-TNR,A2,2,AMD Milan,1,No,Qualified,100743.0628
+Supermicro,AS-2114GT-DPNR,A2,6,AMD Milan,1,No,Qualified,135032.3342
+Supermicro,AS-4124GS-TNR,A2,8,AMD Milan,2,No,Qualified,10373.73813
+Supermicro,SYS-4029GP-TRT,A2,8,Intel Cascade Lake,2,No,Qualified,67433.40498
+Supermicro,SYS-4029GP-TRT2,A2,10,Intel Cascade Lake,2,No,Qualified,152326.988
+Supermicro,SYS-210GP-DNR,A10,2,Intel Ice Lake,1,No,NVIDIA-Certified,173405.8331
+Supermicro,SYS-220U-TNR / 620U-TNR,A10,4,Intel Ice Lake,2,No,NVIDIA-Certified,44325.16361
+Supermicro,SYS-220GP-TNR,A10,6,Intel Ice Lake,2,No,NVIDIA-Certified,66645.82209
+Supermicro,AS-2114GT-DNR,A10,5,AMD Milan,2,No,NVIDIA-Certified,113875.2658
+Supermicro,SYS-620H-TN12R,A10,2,Intel Ice Lake,2,No,Qualified,25924.0565
+Supermicro,SYS-7049GP-TRT,A10,4,Intel Skylake,2,No,Qualified,183138.8151
+Supermicro,SYS-4029GP-TRT,A10,8,Intel Cascade Lake,2,No,Qualified,24886.52415
+Supermicro,SYS-4029GP-TRT2,A10,10,Intel Cascade Lake,2,No,Qualified,144808.4454
+Supermicro,SYS-740GP-TNRT,A10,4,Intel Ice Lake,2,No,NVIDIA-Certified,199117.3076
+Supermicro,AS-4124GS-TNR,A10,8,AMD Rome,2,No,Qualified,35176.27811
+Supermicro,SYS-420GP-TNR,A10,8,Intel Ice Lake,2,No,NVIDIA-Certified,14246.94448
+Supermicro,SBA-4119SG,A10,2,AMD Rome,1,No,NVIDIA-Certified,166167.0683
+Supermicro,SBA-4119SG,A16,1,AMD Rome,1,No,Qualified,56576.55269
+Supermicro,SYS-120U-TNR / 610U-TNR,A16,1,Intel Ice Lake,2,No,Qualified,180981.1399
+Supermicro,SYS-210GP-DNR,A16,2,Intel Ice Lake,1,No,Qualified,173396.1909
+Supermicro,SYS-220U-TNR / 620U-TNR,A16,4,Intel Ice Lake,2,No,Qualified,99068.91988
+Supermicro,SYS-120GQ-TNRT,A16,4,Intel Ice Lake,2,No,Qualified,147706.0416
+Supermicro,SYS-220GP-TNR,A16,4,Intel Ice Lake,2,No,Qualified,193184.1999
+Supermicro,SYS-620C-TN12R,A16,2,Intel Ice Lake,2,No,Qualified,46500.04956
+Supermicro,SYS-7049GP-TRT,A16,4,Intel Cascade Lake,2,No,Qualified,11339.85104
+Supermicro,SYS-740GP-TNRT,A16,4,Intel Ice Lake,2,No,NVIDIA-Certified,162941.9874
+Supermicro,SYS-420GP-TNR,A16,4,Intel Ice Lake,2,No,Qualified,144061.7598
+Supermicro,SYS-420GP-TNR2,A16,4,Intel Ice Lake,2,No,Qualified,168639.0416
+Supermicro,AS-2014CS-TR,A16,2,AMD Milan,1,No,Qualified,27718.17547
+Supermicro,AS-2114GT-DNR,A16,3,AMD Milan,1,No,Qualified,173389.2342
+Supermicro,AS-2114GT-DPNR,A16,3,AMD Milan,1,No,Qualified,19554.31722
+Supermicro,AS-4124GS-TNR,A16,4,AMD Milan,2,No,Qualified,117203.3833
+Supermicro,SYS-4029GP-TRT,A16,4,Intel Cascade Lake,2,No,Qualified,82066.28277
+Supermicro,SYS-4029GP-TRT2,A16,4,Intel Cascade Lake,2,No,Qualified,164324.343
+Supermicro,SYS-E403-12P-FN2T,A30,1,Intel Ice Lake,1,No,NVIDIA-Certified,136238.5105
+Supermicro,SYS-120GQ-TNRT,A30,4,Intel Ice Lake,2,No,NVIDIA-Certified,56878.9108
+Supermicro,SYS-120U-TNR / 610U-TNR,A30,1,Intel Ice Lake,2,No,NVIDIA-Certified,82485.45568
+Supermicro,SYS-210GP-DNR,A30,3,Intel Ice Lake,1,No,NVIDIA-Certified,164109.425
+Supermicro,SYS-220U-TNR / 620U-TNR,A30,4,Intel Ice Lake,2,No,NVIDIA-Certified,20780.70648
+Supermicro,SYS-220GP-TNR,A30,6,Intel Ice Lake,2,No,NVIDIA-Certified,189841.9033
+Supermicro,SYS-620C-TN12R,A30,2,Intel Ice Lake,2,No,Qualified,94382.67978
+Supermicro,SYS-620H-TN12R,A30,4,Intel Ice Lake,2,No,Qualified,132100.4526
+Supermicro,AS-2014CS-TR,A30,2,AMD Milan,1,No,Qualified,155915.9508
+Supermicro,AS-2114GT-DNR,A30,3,AMD Rome,1,No,NVIDIA-Certified,86280.96014
+Supermicro,AS-2114GT-DPNR,A30,3,AMD Milan,1,No,Qualified,153303.1871
+Supermicro,SYS-420GP-TNR,A30,10,Intel Ice Lake,2,No,NVIDIA-Certified,129380.6205
+Supermicro,SYS-740GP-TNRT,A30,4,Intel Ice Lake,2,No,NVIDIA-Certified,144932.6524
+Supermicro,SYS-741GE-TNRT,A30,4,Intel Sapphire Rapids,2,No,Qualified,52448.0481
+Supermicro,SYS-7049GP-TRT,A30,4,Intel Cascade Lake,2,No,Qualified,173952.2558
+Supermicro,SYS-4029GP-TRT,A30,8,Intel Cascade Lake,2,No,Qualified,177016.2494
+Supermicro,SYS-4029GP-TRT2,A30,10,Intel Cascade Lake,2,No,Qualified,78540.5531
+Supermicro,AS-4124GS-TNR,A30,8,AMD Rome,2,No,NVIDIA-Certified,160204.9767
+Supermicro,SYS-120GQ-TNRT,A40,4,Intel Ice Lake,2,No,NVIDIA-Certified,182709.5006
+Supermicro,SYS-120H-TNR,A40,1,Intel Ice Lake,2,No,Qualified,193845.2786
+Supermicro,SYS-210GP-DNR,A40,3,Intel Ice Lake,1,No,NVIDIA-Certified,185246.9422
+Supermicro,SYS-220U-TNR / 620U-TNR,A40,4,Intel Ice Lake,2,No,NVIDIA-Certified,187404.4134
+Supermicro,SYS-220GP-TNR,A40,6,Intel Ice Lake,2,No,NVIDIA-Certified,66980.74383
+Supermicro,SYS-220HE-FTNR,A40,3,Intel Ice Lake,2,No,NVIDIA-Certified,44612.2274
+Supermicro,SYS-620C-TN12R,A40,2,Intel Ice Lake,2,No,NVIDIA-Certified,193190.1037
+Supermicro,SYS-6029U/PIO-6029U-E1CR4T-ST031,A40,2,Intel Cascade Lake,2,No,Qualified,97319.84839
+Supermicro,AS-2014CS-TR,A40,2,AMD Milan,2,No,Qualified,161047.41
+Supermicro,AS-2114GT-DNR,A40,3,AMD Milan,1,No,NVIDIA-Certified,80995.86777
+Supermicro,AS-2114GT-DPNR,A40,3,AMD Milan,1,No,Qualified,88059.83732
+Supermicro,AS-2024US-TRT,A40,2,AMD Milan,2,No,Qualified,50508.88964
+Supermicro,SYS-7049GP-TRT,A40,4,Intel Skylake,2,No,Qualified,167940.2848
+Supermicro,SYS-7049GP-TRT,A40,4,Intel Cascade Lake,2,No,Qualified,169824.5263
+Supermicro,SYS-740GP-TNRT,A40,4,Intel Ice Lake,2,No,NVIDIA-Certified,109839.7256
+Supermicro,SYS-420GP-TNR,A40,8,Intel Ice Lake,2,No,NVIDIA-Certified,68760.64588
+Supermicro,SYS-420GP-TNR2,A40,10,Intel Ice Lake,2,No,Qualified,192401.688
+Supermicro,SYS-4029GP-TRT,A40,8,Intel Cascade Lake,2,No,Qualified,188580.9383
+Supermicro,SYS-4029GP-TRT2,A40,10,Intel Cascade Lake,2,No,Qualified,24964.52338
+Supermicro,AS-4124GS-TNR,A40,8,AMD Milan,2,No,NVIDIA-Certified,27880.54287
+Supermicro,SBA-4119SG,A40,1,AMD Rome,1,No,NVIDIA-Certified,166161.2147
+Supermicro,ARS-210M-NR,A100 80GB,4,ARM-Altra Max,1,No,Qualified,16664.31946
+Supermicro,SYS-120GQ-TNRT,A100 80GB,4,Intel Ice Lake,2,No,NVIDIA-Certified,56269.88987
+Supermicro,SYS-120U-TNR / 610U-TNR,A100 80GB,1,Intel Ice Lake,2,No,NVIDIA-Certified,156913.0384
+Supermicro,SYS-120H-TNR,A100 80GB,1,Intel Ice Lake,2,No,Qualified,125086.9303
+Supermicro,SYS-1029GQ-TRT,A100 80GB,4,Intel Cascade Lake,2,No,Qualified,132164.0107
+Supermicro,SYS-1029GP-TR,A100 80GB,2,Intel Cascade Lake,2,No,Qualified,84971.3525
+Supermicro,SYS-220U-TNR / 620U-TNR,A100 80GB,4,Intel Ice Lake,2,No,NVIDIA-Certified,150366.9225
+Supermicro,SYS-2029GP-TR,A100 80GB,3,Intel Cascade Lake,2,No,Qualified,198949.0071
+Supermicro,SYS-210GP-DNR,A100 80GB,2,Intel Ice Lake,1,No,NVIDIA-Certified,18633.4705
+Supermicro,SYS-220GP-TNR,A100 80GB,6,Intel Ice Lake,2,No,NVIDIA-Certified,49672.47696
+Supermicro,SYS-620C-TN12R,A100 80GB,2,Intel Ice Lake,2,No,Qualified,58259.83886
+Supermicro,SYS-620H-TN12R,A100 80GB,4,Intel Ice Lake,2,No,Qualified,66588.65808
+Supermicro,SYS-7049GP-TRT,A100 80GB,4,Intel Cascade Lake,2,No,Qualified,81562.89261
+Supermicro,SYS-4029GP-TRT2,A100 80GB,8,Intel Cascade Lake,2,No,Qualified,167437.8296
+Supermicro,SYS-740GP-TNRT,A100 80GB,4,Intel Ice Lake,2,No,NVIDIA-Certified,106521.1376
+Supermicro,SYS-420GP-TNR,A100 80GB,10,Intel Ice Lake,2,No,NVIDIA-Certified,86872.00069
+Supermicro,SYS-420GP-TNR2,A100 80GB,10,Intel Ice Lake,2,No,Qualified,11155.26979
+Supermicro,SYS-751GE-TNRT,A100 80GB,4,Intel Sapphire Rapids,2,No,NVIDIA-Certified,35769.5347
+Supermicro,SYS-121H-TNR,H100 PCIe,1,Intel Sapphire Rapids,2,No,Qualified,126826.9336
+Supermicro,SYS-740GP-TNRT,H100 PCIe,4,Intel Ice Lake,2,No,Qualified,14730.23201
+Supermicro,AS-4124GS-TNR+,H100 PCIe,8,AMD Milan,2,No,Qualified,174121.1075
+Supermicro,AS-4125GS-TNRT,H100 PCIe,8,AMD Genoa,2,No,Qualified,65284.4238
+Supermicro,SYS-741GE-TNRT,H100 PCIe,4,Intel Sapphire Rapids,2,No,Qualified,186199.9801
+Supermicro,SBI-611E-5T2N,H100 PCIe,1,Intel Sapphire Rapids,1,No,Qualified,48316.17032
+Supermicro,SYS-741GE-TNRT,L40,4,Intel Sapphire Rapids,2,No,Qualified,198455.3284
+Supermicro,SYS-421GE-TNRT,L40,8,Intel Sapphire Rapids,2,No,Qualified,142915.1789
+Supermicro,AS-4125GS-TNRT,L40,8,AMD Genoa,2,No,Qualified,75536.57439
+Supermicro,AS-2124GQ-NART,HGX A100 4 GPU 40GB,4,AMD Milan,2,No,NVIDIA-Certified,180394.9616
+Supermicro,AS-2124GQ-NART+,HGX A100 4 GPU 80GB,4,AMD Milan,2,No,NVIDIA-Certified,161869.6175
+Supermicro,SYS-220GQ-TNAR+,HGX A100 4 GPU 80GB,4,Intel Ice Lake,2,No,NVIDIA-Certified,195118.6209
+Supermicro,SYS-420GP-TNAR,HGX A100 8 GPU 80GB,8,Intel Ice Lake,2,No,NVIDIA-Certified,50655.0001
+Supermicro,SYS-420GP-TNAR+,HGX A100 8 GPU 80GB,8,Intel Ice Lake,2,No,NVIDIA-Certified,47497.1818
+Supermicro,AS-4124GO-NART+,HGX A100 8 GPU 80GB,8,AMD Milan,2,No,NVIDIA-Certified,17672.77826
+Supermicro,AS-4124GO-NART,HGX A100 8 GPU 80GB,8,AMD Rome,2,No,NVIDIA-Certified,33727.91027
+Supermicro,SYS-821GE-TNHR,HGX H100 8 GPU 80GB,8,Intel Sapphire Rapids,2,No,NVIDIA-Certified,34452.80045
+Supermicro,SYS-421GU-TNXR,HGX H100 4 GPU 80GB,4,Intel Sapphire Rapids,2,No,NVIDIA-Certified,107040.8951
+Supermicro,SYS-510T-WTR,T4,1,Intel Ice Lake,1,No,Qualified,15244.01958
+Supermicro,SYS-120GQ-TNRT,T4,4,Intel Skylake,2,No,NVIDIA-Certified,133743.4213
+Supermicro,SYS-1029U / 6019U,T4,2,Intel Skylake,2,No,Qualified,141912.7337
+Supermicro,SYS-1029P-W / 6019P-W,T4,1,Intel Skylake,2,No,Qualified,48710.64605
+Supermicro,SYS-1029GQ,T4,4,Intel Cascade Lake,2,Yes,Qualified,98991.15453
+Supermicro,SYS-1029GP-TR,T4,4,Intel Skylake,2,Yes,Qualified,107766.9989
+Supermicro,SYS-1019P/5019P-WTR,T4,2,Intel Skylake,1,No,Qualified,171427.811
+Supermicro,SYS-1019P/5019P-WTR,T4,2,Intel Cascade Lake,1,No,Qualified,180497.9991
+Supermicro,SYS-1019P/5019P-FHN2T,T4,2,Intel Skylake,1,No,Qualified,151338.6001
+Supermicro,SYS-1019P/5019P-FHN2T,T4,2,Intel Cascade Lake,1,No,Qualified,155662.7583
+Supermicro,SYS-1019GP / 5019GP,T4,2,Intel Skylake,1,No,Qualified,75528.02406
+Supermicro,SYS-1019GP / 5019GP,T4,2,Intel Cascade Lake,1,No,Qualified,116728.3298
+Supermicro,SYS-1019D-FHN13TP,T4,2,Intel Skylake,1,No,Qualified,39024.08462
+Supermicro,AS-1114S-WTRT,T4,3,AMD Rome,1,No,Qualified,101622.9878
+Supermicro,AS-1014S-WTRT,T4,3,AMD Rome,1,No,Qualified,50270.82743
+Supermicro,SYS-510P-WTR,T4,2,Intel Ice Lake,1,No,Qualified,176561.7199
+Supermicro,SYS-530MT-H8TNR,T4,8,Intel Rocket Lake,1,No,Qualified,67344.07754
+Supermicro,SYS-120U-TNR / 610U-TNR,T4,4,Intel Ice Lake,2,No,NVIDIA-Certified,48026.99835
+Supermicro,SYS-220U-TNR / 620U-TNR,T4,7,Intel Ice Lake,2,No,NVIDIA-Certified,181662.6695
+Supermicro,SYS-220GP-TNR,T4,6,Intel Ice Lake,2,No,NVIDIA-Certified,72922.89812
+Supermicro,SYS-2029U / 6029U,T4,4,Intel Skylake,2,Yes,Qualified,67982.15508
+Supermicro,SYS-2029U / 6029U,T4,4,Intel Cascade Lake,2,Yes,Qualified,156966.6042
+Supermicro,SYS-2029P-W / 6029P-W,T4,2,Intel Cascade Lake,2,No,Qualified,179135.8477
+Supermicro,SYS-2029P-TXRT,T4,8,Intel Skylake,2,Yes,Qualified,12359.50947
+Supermicro,SYS-2029GP-TR,T4,6,Intel Skylake,2,Yes,Qualified,184689.89
+Supermicro,AS-2014TP-HTR,T4,2,AMD Rome,2,No,Qualified,56214.0683
+Supermicro,AS-2014CS-TR,T4,6,AMD Rome,2,No,Qualified,86527.59328
+Supermicro,SYS-F629P3,T4,1,Intel Skylake,2,No,Qualified,96654.6891
+Supermicro,SYS-E403-9P-FN2T,T4,3,Intel Skylake,1,Yes,Qualified,190333.6078
+Supermicro,SYS-E403-9D-16C-FN13TP,T4,3,Intel Skylake,1,Yes,Qualified,33232.48217
+Supermicro,SYS-7049GP,T4,4,Intel Skylake,2,No,Qualified,12485.99277
+Supermicro,SYS-7049GP,T4,4,Intel Cascade Lake,2,No,Qualified,157156.2772
+Supermicro,SYS-740GP-TNRT,T4,4,Intel Ice Lake,2,No,NVIDIA-Certified,171583.1004
+Supermicro,SYS-6049GP-TRT,T4,20,Intel Skylake,2,No,Qualified,111683.5729
+Supermicro,SYS-5039MD8-H8TNR,T4,1,Intel Skylake,1,No,NGC-Ready,183300.753
+Supermicro,SYS-5039MD18-H8TNR,T4,1,Intel Skylake,1,No,NGC-Ready,23450.64633
+Supermicro,SYS-5039MP-H8TNR,T4,1,Intel Skylake,1,No,NGC-Ready,118049.9356
+Supermicro,SYS-5019D-FN8TP,T4,1,Intel Skylake,1,Yes,Qualified,177635.8691
+Supermicro,SYS-4029GP-TRT3,T4,8,Intel Cascade Lake,2,No,Qualified,151583.774
+Supermicro,SYS-4029GP-TRT2,T4,8,Intel Cascade Lake,2,No,Qualified,67811.32492
+Supermicro,SYS-4029GP-TRT,T4,8,Intel Cascade Lake,2,No,Qualified,35651.83379
+Supermicro,SYS-420GP-TNR,T4,8,Intel Ice Lake,2,No,NVIDIA-Certified,20547.29556
+Supermicro,SBI-4119MG-X,T4,2,Intel Skylake,1,No,Qualified,23966.4368
+Supermicro,SBA-4119SG,T4,2,AMD Rome,1,No,NVIDIA-Certified,189184.4683
+Supermicro,SYS-4029GP-TRT2,RTX 4000,10,Intel Cascade Lake,2,No,Qualified,86474.39737
+Supermicro,SYS-6049GP-TRT,RTX 5000,8,Intel Cascade Lake,2,No,Qualified,191740.1909
+Supermicro,SYS-7049GP-TRT,RTX 6000,4,Intel Skylake,2,No,Qualified,11076.25203
+Supermicro,SYS-7049GP-TRT,RTX 6000,4,Intel Cascade Lake,2,No,Qualified,99724.53145
+Supermicro,SYS-6029U / 2029U,RTX 6000,4,Intel Skylake,2,No,Qualified,124699.4018
+Supermicro,SYS-6029U / 2029U,RTX 6000,4,Intel Cascade Lake,2,No,Qualified,178780.3494
+Supermicro,SYS-6019U / 1029U,RTX 6000,1,Intel Skylake,2,No,Qualified,187971.5064
+Supermicro,SYS-6019U / 1029U,RTX 6000,1,Intel Cascade Lake,2,No,Qualified,22834.64235
+Supermicro,SYS-5049A-TR,RTX 6000,4,Intel Skylake,1,No,Qualified,176308.1952
+Supermicro,SYS-5049A-TR,RTX 6000,4,Intel Cascade Lake,1,No,Qualified,186465.6604
+Supermicro,SYS-5039A-I,RTX 6000,2,Intel Skylake,1,No,Qualified,177974.9014
+Supermicro,SYS-4029GP-TRT2,RTX 6000,8,Intel Skylake,2,No,Qualified,178014.9067
+Supermicro,SYS-4029GP-TRT2,RTX 6000,8,Intel Cascade Lake,2,No,Qualified,76665.59153
+Supermicro,SYS-4029GP-TRT,RTX 6000,8,Intel Skylake,2,No,Qualified,57656.82134
+Supermicro,SYS-4029GP-TRT,RTX 6000,8,Intel Cascade Lake,2,No,Qualified,11640.56767
+Supermicro,SYS-1029GQ,RTX 6000,4,Intel Skylake,2,No,Qualified,109302.2615
+Supermicro,SYS-1029GQ,RTX 6000,4,Intel Cascade Lake,2,No,Qualified,134389.1963
+Supermicro,AS-4124GS-TNR,RTX 6000,8,AMD Rome,2,No,Qualified,134918.1036
+Supermicro,SYS-6049GP-TRT,RTX 8000,8,Intel Skylake,2,No,Qualified,54443.18505
+Supermicro,SYS-6049GP-TRT,RTX 8000,8,Intel Cascade Lake,2,No,Qualified,159061.5253
+Supermicro,SYS-5049A-TR,RTX 8000,4,Intel Skylake,1,No,Qualified,38244.65284
+Supermicro,SYS-5049A-TR,RTX 8000,4,Intel Cascade Lake,1,No,Qualified,116430.1788
+Supermicro,SYS-1029GQ-TRT,RTX 8000,4,Intel Skylake,2,No,Qualified,81268.26683
+Supermicro,SYS-1029GQ-TRT,RTX 8000,4,Intel Cascade Lake,2,No,Qualified,123606.1718
+Supermicro,7049GP-TRT,RTX 8000,4,Intel Skylake,2,No,Qualified,155577.8785
+Supermicro,7049GP-TRT,RTX 8000,4,Intel Cascade Lake,2,No,Qualified,131895.8439
+Supermicro,4029GP-TRT2,RTX 8000,8,Intel Skylake,2,No,Qualified,50054.53224
+Supermicro,4029GP-TRT2,RTX 8000,8,Intel Cascade Lake,2,No,Qualified,18925.67593
+Supermicro,4029GP-TRT,RTX 8000,8,Intel Skylake,2,No,Qualified,101740.4466
+Supermicro,4029GP-TRT,RTX 8000,8,Intel Cascade Lake,2,No,Qualified,167934.7588
+Supermicro,1019GP-TT,RTX 8000,2,Intel Skylake,1,No,Qualified,27037.54066
+Supermicro,1019GP-TT,RTX 8000,2,Intel Cascade Lake,1,No,Qualified,93854.56811
+Supermicro,AS-4124GS-TNR,RTX 8000,8,AMD Milan,1,No,Qualified,92560.64678
+Supermicro,SYS-4029GP-TRT,RTX A6000,8,Intel Cascade Lake,2,No,Qualified,128762.3294
+Supermicro,SYS-7049GP-TRT,RTX A6000,4,Intel Cascade Lake,2,No,Qualified,162964.0632
+Supermicro,SYS-740GP-TNRT,RTX A6000,4,Intel Ice Lake,2,No,Qualified,12628.46408
+Supermicro,AS-4124GS-TNR,RTX A6000,8,AMD Rome,2,No,Qualified,127602.5595
+Supermicro,SYS-2029U/6029U-TN24R4T,RTX A6000,1,Intel Cascade Lake,2,No,Qualified,104538.0759
+Supermicro,SYS-220U/620U,RTX A6000,4,Intel Ice Lake,2,No,Qualified,92166.88744
+Supermicro,SYS-221HE-TNR,RTX A6000,3,Intel Sapphire Rapids,2,No,Qualified,159526.66
+Supermicro,AS-2014CS-TR,RTX A6000,2,AMD Milan,1,No,Qualified,108616.1244
+Supermicro,SYS-4029GP-TRT2,RTX A6000,10,Intel Cascade Lake,2,No,Qualified,197090.778
+Supermicro,AS -2114GT-DNR,RTX A6000,3,AMD Milan,1,No,Qualified,90949.0298
+Supermicro,AS -2114GT-DNR,RTX A6000,3,AMD Rome,1,No,Qualified,29470.61609
+Supermicro,AS -3014TS-i,RTX A6000,2,AMD Milan,1,No,Qualified,13601.09029
+Supermicro,SYS-740A-T,RTX A6000,1,Intel Ice Lake,2,No,Qualified,24065.62038
+Supermicro,AS -5014A-TT,RTX A6000,2,AMD Ryzen,1,No,Qualified,187359.9476
+Supermicro,SYS-540A-TR,RTX A6000,4,Intel Ice Lake,1,No,Qualified,133034.8854
+Supermicro,SYS-730A-I,RTX A6000,2,Intel Ice Lake,2,No,Qualified,69034.1058
+Supermicro,SYS-120GQ-TNRT,RTX A6000,2,Intel Ice Lake,2,No,Qualified,20941.82971
+Supermicro,SYS-620U-TNR,RTX A6000,4,Intel Ice Lake,2,No,Qualified,88573.0256
+Supermicro,SYS-620C-TN12R,RTX A6000,2,Intel Ice Lake,2,No,NVIDIA-Certified,181073.6725
+Supermicro,SYS-620H-TN12R,RTX A6000,4,Intel Ice Lake,2,No,Qualified,107336.879
+Supermicro,SYS-531A-IL,RTX A6000,1,Intel Alder Lake,1,No,NVIDIA-Certified,32915.46829
+Supermicro,SYS-740GP-TNRT,RTX A6000,4,Intel Ice Lake,2,No,NVIDIA-Certified,90656.86786
+Supermicro,AS-5014A-TT,RTX A5500,2,AMD Ryzen,1,No,NVIDIA-Certified,97768.38462
+Supermicro,SYS-540A-TR,RTX A5500,2,Intel Ice Lake,1,No,NVIDIA-Certified,188892.4916
+Supermicro,SYS-531A-IL,RTX A5500,1,Intel Alder Lake,1,No,NVIDIA-Certified,30845.04228
+Supermicro,SYS-4029GP-TRT2,RTX A5500,10,Intel Cascade Lake,2,No,Qualified,178947.7639
+Supermicro,SYS-420GP-TNR,RTX A5500,10,Intel Cascade Lake,2,No,Qualified,119304.3121
+Supermicro,SYS-740GP-TNRT,RTX A5000,1,Intel Cascade Lake,2,No,Qualified,130038.7374
+Supermicro,SYS-740GP-TNRT,RTX A5000,4,Intel Ice Lake,2,No,Qualified,130658.0034
+Supermicro,AS-4124GS-TNR,RTX A5000,8,AMD Milan,2,No,Qualified,48028.6242
+Supermicro,AS-4124GS-TNR,RTX A5000,8,AMD Rome,2,No,Qualified,141077.3506
+Supermicro,SYS-420GP-TNR,RTX A5000,8,Intel Ice Lake,2,No,Qualified,186349.4897
+Supermicro,AS -3014TS-i,RTX A5000,2,AMD Milan,1,No,Qualified,95660.47338
+Supermicro,AS -3014TS-i,RTX A5000,2,AMD Rome,1,No,Qualified,71351.10844
+Supermicro,SYS-7049GP-TRT,RTX A5000,4,Intel Cascade Lake,2,No,Qualified,61195.02548
+Supermicro,SYS-120GQ-TNRT,RTX A5000,4,Intel Ice Lake,2,No,Qualified,188131.7918
+Supermicro,AS-5014A-TT,RTX A5000,2,AMD Milan,1,No,Qualified,100108.2847
+Supermicro,SYS-1029U-T,RTX A5000,1,Intel Cascade Lake,2,No,Qualified,48789.09401
+Supermicro,SYS-120GQ-TNRT,RTX A4500,4,Intel Ice Lake,2,No,Qualified,59525.26637
+Supermicro,SYS-610U-TNR / SYS-120U-TNR,RTX A4500,1,Intel Ice Lake,2,No,Qualified,68768.9036
+Supermicro,SYS-531A-IL,RTX A4500,2,Intel Alder Lake,1,No,NVIDIA-Certified,159097.5357
+Supermicro,SYS-540A-TR,RTX A4500,4,Intel Ice Lake,1,No,NVIDIA-Certified,137662.7169
+Supermicro,AS-5014A-TT,RTX A4500,4,AMD Ryzen,1,No,NVIDIA-Certified,190656.2665
+Supermicro,AS-4124GS-TNR,RTX A4500,8,AMD Milan,2,No,Qualified,169500.5079
+Supermicro,SYS-420GP-TNR,RTX A4500,10,Intel Ice Lake,2,No,Qualified,155753.399
+Supermicro,SYS-420GP-TNR2,RTX A4500,10,Intel Ice Lake,2,No,Qualified,106696.5547
+Supermicro,SYS-420GP-TNR,RTX A4000,8,Intel Ice Lake,2,No,Qualified,133660.9406
+Supermicro,SYS-7049GP-TRT,RTX A4000,4,Intel Cascade Lake,2,No,Qualified,67705.20124
+Supermicro,AS-4124GS-TNR,RTX A4000,8,AMD Milan,2,No,Qualified,153190.7383
+Supermicro,AS-4124GS-TNR,RTX A4000,1,Intel Sapphire Rapids,2,No,Qualified,26904.30772
+Supermicro,SYS-120U/SYS-610U,RTX A4000,1,Intel Ice Lake,2,No,Qualified,103980.3512
+Supermicro,AS-5014A-TT,RTX A4000,4,AMD Milan,1,No,Qualified,95819.65425
+Supermicro,AS-8125GS-TNHR,HGX H100 8 GPU 80GB,8,AMD Genoa,2,No,Qualified,54725.55281
+Supermicro,SYS-240P-TNRT,A2,6,Intel Cooper Lake,4,No,Qualified,90107.01221
+Supermicro,SYS-621H-TN12R,A100 80GB,4,Intel Sapphire Rapids,2,No,Qualified,30413.8441
+Supermicro,SYS-420GP-TNR,L40,10,Intel Ice Lake,2,No,Qualified,114251.4072
+Supermicro,SYS-740GP-TNRT,RTX A4500,4,Intel Ice Lake,2,No,Qualified,166793.753
+Supermicro,SYS-521C-NR,A40,2,Intel Sapphire Rapids,1,No,Qualified,193296.0571
+Supermicro,SYS-521C-NR,H100 PCIe,2,Intel Sapphire Rapids,1,No,Qualified,121435.2745
+Supermicro,SYS-510P-WT,A2,2,Intel Ice Lake,1,No,Qualified,170210.0614
+Supermicro,SYS-1029GP-TR,A40,2,Intel Cascade Lake,2,No,Qualified,139470.4943
+Supermicro,SYS-730A-I,RTX A4500,2,Intel Ice Lake,2,No,Qualified,71347.91874
+Supermicro,SYS-240P-TNRT,A100 80GB,4,Intel Cooper Lake,4,No,Qualified,67393.02071
+Supermicro,AS-4125GS-TNRT,A100 80GB,8,AMD Genoa,2,No,Qualified,75809.46823
+Supermicro,SYS-621C-TN12R,L40,2,Intel Sapphire Rapids,2,No,Qualified,26843.71409
+Supermicro,AS-2015CS-TNR,A2,6,AMD Genoa,1,No,Qualified,20069.50627
+Supermicro,SYS-221H-TNR,A40,4,Intel Sapphire Rapids,2,No,Qualified,171106.8749
+Supermicro,SYS-220GP-TNR,L4,6,Intel Ice Lake,2,No,Qualified,173316.9753
+Supermicro,SYS-240P-TNRT,A30,2,Intel Cooper Lake,4,No,Qualified,180540.8795
+Supermicro,AS-1115CS-TNR,A2,2,AMD Genoa,1,No,Qualified,38377.80282
+Supermicro,SYS-521C-NR,A30,2,Intel Sapphire Rapids,1,No,Qualified,148031.5522
+Supermicro,AS-4125GS-TNRT,RTX A4000,8,AMD Genoa,2,No,Qualified,192826.4812
+Supermicro,SYS-521C-NR,A16,2,Intel Sapphire Rapids,1,No,Qualified,140139.8848
+Supermicro,SYS-240P-TNRT,A40,2,Intel Cooper Lake,4,No,Qualified,167526.3383
+Supermicro,AS-2015CS-TNR,A40,2,AMD Genoa,1,No,Qualified,144463.0421
+Supermicro,AS-2015CS-TNR,A16,2,AMD Genoa,1,No,Qualified,158000.6265
+Supermicro,AS-2015CS-TNR,L4,6,AMD Genoa,1,No,Qualified,52938.18414
+Supermicro,SYS-111C-NR,L4,4,Intel Sapphire Rapids,1,No,Qualified,35949.75749
+Supermicro,AS-2015CS-TNR,H100 PCIe,2,AMD Genoa,1,No,Qualified,65759.46599
+Supermicro,SYS-111C-NR,A2,2,Intel Sapphire Rapids,1,No,Qualified,127618.7401
+Supermicro,AS-1115CS-TNR,L4,2,Intel Sapphire Rapids,1,No,Qualified,64275.32022
+Supermicro,SYS-421GE-TNRT3,H100 PCIe,8,Intel Sapphire Rapids,2,No,Qualified,173767.7509
+Supermicro,AS-2015CS-TNR,A30,2,AMD Genoa,1,No,Qualified,117603.0878
+Supermicro,SYS-E403-12P-FN2T,A2,3,Intel Ice Lake,1,No,Qualified,99787.01138
+Supermicro,SYS-730A-I,RTX A5500,2,Intel Ice Lake,2,No,NVIDIA-Certified,52417.41389
+Supermicro,AS-2015CS-TNR,RTX 6000 Ada Generation,2,AMD Genoa,1,No,Qualified,17576.4195
+Supermicro,AS-2015CS-TNR,L40,1,AMD Genoa,2,No,Qualified,18621.48126
+Supermicro,SYS-530MT-H8TNR,L4,1,Intel Rocket Lake,1,No,Qualified,173327.1742
+Supermicro,SYS-740GP-TNRT,RTX A5500,4,Intel Cascade Lake,2,No,Qualified,93545.68234
+Supermicro,AS-4125GS-TNRT,RTX 6000 Ada Generation,8,AMD Genoa,2,No,Qualified,168288.1905
+Supermicro,SYS-120H-TNR,L40,1,Intel Ice Lake,2,No,Qualified,53903.53294
+Supermicro,SYS-421GE-TNRT,RTX 6000 Ada Generation,8,Intel Sapphire Rapids,2,No,Qualified,105496.4361
+Supermicro,SYS-110P-FRN2T,A30,1,Intel Ice Lake,1,No,Qualified,117653.7927
+Supermicro,SYS-221H-TNR,H100 PCIe,4,Intel Sapphire Rapids,2,No,Qualified,198513.3249
+Supermicro,SYS-421GE-TNRT,H100 PCIe,8,Intel Sapphire Rapids,2,No,Qualified,120356.6533
+Supermicro,SYS-741GE-TNRT,RTX 6000 Ada Generation,4,Intel Sapphire Rapids,2,No,Qualified,71755.96592
+Supermicro,AS-4125GS-TNRT,A30,8,AMD Genoa,2,No,Qualified,156063.5037
+Supermicro,SYS-120H-TNR,L4,3,Intel Ice Lake,2,No,Qualified,81507.72901
+Supermicro,SYS-1019GP-TT,A2,2,Intel Cascade Lake,2,No,Qualified,23610.90605
+Supermicro,SYS-120C-TN10R / 120C-TR / 610C-TR,A2,2,Intel Cascade Lake,1,No,NVIDIA-Certified,153568.793
+Supermicro,SYS-120U-TNR / 610U-TNR,A2,3,Intel Ice Lake,2,No,Qualified,63469.34762
+Supermicro,SYS-120GQ-TNRT,A2,4,Intel Ice Lake,2,No,Qualified,132333.7254
+Supermicro,SYS-220GP-TNR,A2,6,Intel Ice Lake,2,No,Qualified,167039.4077
+Supermicro,SYS-120GQ-TNRT,A10,4,Intel Ice Lake,2,No,NVIDIA-Certified,91813.58104
+Supermicro,ARS-210M-NR,A16,4,ARM-Altra Max,1,No,Qualified,81537.41832
+Supermicro,AS-4124GS-TNRT+,L40,8,AMD Milan,2,No,Qualified,98494.92386
+Supermicro,SYS-120H-TNR,A10,2,Intel Ice Lake,2,No,Qualified,78792.35599
+Supermicro,SYS-221H-TNR,A100 80GB,3,Intel Sapphire Rapids,2,No,Qualified,65841.39691
+Supermicro,SYS-741GE-TNRT,RTX A5500,4,Intel Sapphire Rapids,2,No,Qualified,148425.3872
+Supermicro,AS-4125GS-TNRT,A40,8,AMD Genoa,2,No,Qualified,111882.9011
+Supermicro,SYS-110P-FRN2T,A2,2,Intel Ice Lake,2,No,Qualified,83147.2173
+Supermicro,AS-2015CS-TNR,A100 80GB,2,AMD Genoa,1,No,Qualified,103893.8592
+Supermicro,SYS-521GE-TNRT,H100 PCIe,8,Intel Sapphire Rapids,2,No,Qualified,38019.31052
+Supermicro,SYS-621C-TN12R,H100 PCIe,2,Intel Sapphire Rapids,2,No,Qualified,85293.95336
+Supermicro,SYS-121H-TNR,L4,3,Intel Sapphire Rapids,2,No,Qualified,102284.0034
+Supermicro,SYS-220GP-TNR,L40,6,Intel Ice Lake,2,No,Qualified,95817.13065
+Supermicro,AS-4124GS-TNR+,RTX 6000 Ada Generation,8,AMD Milan,2,No,Qualified,153641.9034
+Supermicro,SYS-221H-TNR,L40,4,Intel Sapphire Rapids,2,No,Qualified,122782.3241
+Supermicro,AS-4125GS-TNRT,RTX A5000,8,AMD Genoa,2,No,Qualified,111214.2141
+Supermicro,AS-1114CS-TNR,L4,2,AMD Milan,1,No,Qualified,169218.6834
+Supermicro,SYS-751A-I,RTX A5500,2,Intel Sapphire Rapids,2,No,Qualified,89585.40624
+Supermicro,SYS-E403-12P-FN2T,L4,2,Intel Ice Lake,1,No,Qualified,106678.3057
+Supermicro,SYS-110D-20C-FRAN8TP,L4,1,Intel Sapphire Rapids,1,No,Qualified,131915.1179
+Supermicro,SYS-521GE-TNRT,H100 NVL,8,Intel Sapphire Rapids,2,No,Qualified,190567.0777
+Supermicro,AS-4125GS-TNRT2,A100 80GB,10,AMD Genoa,2,No,Qualified,151070.5769
+Supermicro,AS-2025HS-TNR,L40,4,AMD Genoa,2,No,Qualified,170771.0468
+Supermicro,SYS-121C-TN10R,L4,2,Intel Sapphire Rapids,2,No,Qualified,68637.429
+Supermicro,SYS-521C-NR,L4,4,Intel Sapphire Rapids,1,No,Qualified,31684.91259
+Supermicro,SYS-221H-TNR,RTX A6000,3,Intel Sapphire Rapids,2,No,Qualified,56742.97234
+Supermicro,SYS-420GP-TNR,H100 PCIe,8,Intel Ice Lake,2,No,Qualified,190829.5689
+Supermicro,SYS-751A-I,RTX A4500,2,Intel Sapphire Rapids,2,No,Qualified,12548.93719
+Supermicro,SYS-751A-I,RTX A6000,2,Intel Sapphire Rapids,2,No,Qualified,32476.01186
+Supermicro,SYS-531A-I,RTX 6000 Ada Generation,2,Intel Sapphire Rapids,1,No,Qualified,197365.3917
+Supermicro,ARS-210M-NR,H100 PCIe,4,ARM-Altra Max,1,No,Qualified,176107.8816
+Supermicro,AS-4125GS-TNRT2,H100 PCIe,10,AMD Genoa,2,No,Qualified,189133.4304
+Supermicro,SYS-240P-TNRT,L4,4,Intel Cooper Lake,2,No,Qualified,131345.1047
+Supermicro,AS-4125GS-TNRT2,RTX 6000 Ada Generation,10,AMD Genoa,2,No,Qualified,57534.11768
+Supermicro,AS-4125GS-TNRT2,L40,10,AMD Genoa,2,No,Qualified,48717.39818
+Supermicro,SYS-621C-TN12R,RTX A6000,2,Intel Sapphire Rapids,2,No,Qualified,83830.23632
+Supermicro,SYS-421GE-TNHR2-LCC,HGX H100 8 GPU 80GB,8,Intel Sapphire Rapids,2,No,Qualified,159143.1735
+Supermicro,SYS-420GP-TNR2,RTX A6000,10,Intel Ice Lake,2,No,Qualified,165769.3681
+Supermicro,SYS-420GP-TNR2,RTX A6000,8,Intel Ice Lake,2,No,Qualified,49325.74414
+Supermicro,SYS-421GE-TNRT,RTX A6000,10,Intel Sapphire Rapids,2,No,Qualified,67746.7864
+Supermicro,AS-4125GS-TNRT,RTX A6000,8,AMD Genoa,2,No,Qualified,58903.37694
+Supermicro,SYS-740GP-TNRT,RTX 6000 Ada Generation,4,Intel Ice Lake,2,No,Qualified,98017.41204
+Supermicro,AS-2015CS-TNR,RTX A6000,2,AMD Genoa,1,No,Qualified,73002.6385
+Supermicro,SYS-620C-TN12R,A10,4,Intel Ice Lake,2,No,Qualified,58913.56138
+Supermicro,SYS-5039MP-H8TNR,L4,1,Intel Skylake,1,No,Qualified,73068.79013
+Supermicro,SYS-730A-I,RTX 6000 Ada Generation,2,Intel Ice Lake,2,No,Qualified,113745.0357
+Supermicro,SYS-221H-TN24R,A100 80GB,2,Intel Sapphire Rapids,2,No,Qualified,178659.654
+Supermicro,AS-2025HS-TNR,L4,4,AMD Genoa,2,No,Qualified,31285.29943
+Supermicro,AS-4125GS-TNRT2,RTX A4000,8,AMD Genoa,2,No,Qualified,124753.2239
+Supermicro,SYS-121H-TNR,RTX A5000,1,Intel Sapphire Rapids,2,No,Qualified,152523.299
+Supermicro,SYS-241H-TNRTTP,H100 PCIe,4,Intel Sapphire Rapids,2,No,Qualified,99886.69209
+Supermicro,SYS-521GE-TNRT,L40S,10,Intel Sapphire Rapids,2,No,Qualified,162037.1347
+Supermicro,SYS-421GE-TNRT,A100 80GB,10,Intel Sapphire Rapids,2,No,Qualified,115562.7329
+Supermicro,AS-4125GS-TNRT2,A40,8,AMD Genoa,2,No,Qualified,78123.01288
+Supermicro,AS-2125HS-TNR,A100 80GB,4,AMD Genoa,2,No,Qualified,16332.15794
+Supermicro,SYS-751A-I,RTX 6000 Ada Generation,2,Intel Sapphire Rapids,2,No,Qualified,106941.4231
+Supermicro,AS-3015MR-H8TNR,L4,1,AMD Genoa,1,No,Qualified,112064.4116
+Supermicro,AS-2025HS-TNR,RTX A6000,4,AMD Genoa,2,No,Qualified,59268.74964
+Supermicro,SYS-241E-TNRTTP,RTX A6000,2,Intel Sapphire Rapids,4,No,Qualified,139452.5165
+Supermicro,AS-4125GS-TNRT2,RTX A5000,8,AMD Genoa,2,No,Qualified,88422.99328
+Supermicro,AS-4125GS-TNRT,RTX 4000 SFF Ada Generation,8,AMD Genoa,2,No,Qualified,109078.3566
+Supermicro,SYS-421GE-TNRT,L40S,8,Intel Sapphire Rapids,2,No,Qualified,81314.66217
+Supermicro,SYS-741GE-TNRT,L40S,4,Intel Sapphire Rapids,2,No,Qualified,133751.5487
+Supermicro,SYS-421GE-TNRT3,L40S,8,Intel Sapphire Rapids,2,No,Qualified,113614.7764
+Supermicro,SYS-110P-FRN2T,L4,2,Intel Ice Lake,1,No,Qualified,169464.9718
+Supermicro,AS-2014CS-TR,A10,4,AMD Milan,2,No,Qualified,31609.33619
+Supermicro,AS-2015CS-TNR,A10,4,AMD Milan,2,No,Qualified,13578.46117
+Supermicro,SYS-751A-I,RTX A4000,2,Intel Sapphire Rapids,2,No,Qualified,107590.7687
+Supermicro,SYS-551A-T,RTX A4500,4,Intel Sapphire Rapids,1,No,Qualified,124041.3519
+Supermicro,AS-4125GS-TNRT,L40S,8,AMD Genoa,2,No,Qualified,48677.56322
+Supermicro,AS-4125GS-TNRT,RTX A5500,8,AMD Genoa,2,No,Qualified,146873.5165
+Supermicro,SYS-551A-T,RTX A5500,4,Intel Sapphire Rapids,1,No,Qualified,175395.656
+Supermicro,AS-4125GS-TNRT2,RTX A6000,10,AMD Genoa,2,No,Qualified,100382.5531
+Supermicro,SYS-420GP-TNR,RTX A6000,8,Intel Ice Lake,2,No,Qualified,67524.92876
+Supermicro,SYS-241H-TNRTTP,RTX A6000,2,Intel Sapphire Rapids,4,No,Qualified,140036.9946
+Supermicro,SYS-740GP-TNRT,RTX A4000,4,Intel Ice Lake,2,No,Qualified,148009.6156
+Supermicro,AS-4125GS-TNRT1,A100 80GB,10,AMD Genoa,2,No,Qualified,75551.63403
+Supermicro,SYS-421GE-TNRT,A10,10,Intel Sapphire Rapids,2,No,Qualified,186075.2635
+Supermicro,SBI-611E-5T2N,A10,1,Intel Sapphire Rapids,1,No,Qualified,30645.69358
+Supermicro,ARS-210M-NR,A10,4,ARM-Altra Max,1,No,Qualified,184264.9343
+Supermicro,SYS-421GE-TNRT,H100 NVL,8,Intel Sapphire Rapids,2,No,Qualified,116785.864
+Supermicro,SYS-741GE-TNRT,L4,4,Intel Sapphire Rapids,2,No,Qualified,162906.0497
+Supermicro,ARS-210M-NR,L4,4,ARM-Altra Max,1,No,Qualified,127471.2219
+Supermicro,AS-4125GS-TNRT1,RTX 6000 Ada Generation,8,AMD Genoa,1,No,Qualified,123848.5663
+Supermicro,SBI-661E-1T2N,L40S,1,Intel Sapphire Rapids,1,No,Qualified,57387.87878
+Supermicro,SYS-751A-I,RTX A5000,2,Intel Sapphire Rapids,2,No,Qualified,11035.2791
+Supermicro,AS-2025HS-TNR,RTX 6000 Ada Generation,2,AMD Genoa,2,No,Qualified,144797.4311
+Supermicro,SYS-240P-TNRT,RTX A6000,2,Intel Cooper Lake,4,No,Qualified,61488.72784
+Supermicro,SBI-411E-1G,H100 PCIe,1,Intel Sapphire Rapids,1,No,Qualified,155138.5603
+Supermicro,AS-4125GS-TNRT,A16,4,AMD Genoa,2,No,Qualified,48048.89722
+Supermicro,SYS-531A-I,RTX A4500,1,Intel Sapphire Rapids,1,No,Qualified,189766.5603
+Supermicro,AS-4125GS-TNRT,L4,8,AMD Genoa,2,No,Qualified,56868.87801
+Supermicro,SYS-531A-I,RTX A5500,1,Intel Sapphire Rapids,1,No,Qualified,144398.516
+Supermicro,SYS-221HE-FTNR,L40,3,Intel Sapphire Rapids,2,No,Qualified,176757.6421
+Supermicro,SYS-421GE-TNRT,L4,10,Intel Sapphire Rapids,2,No,Qualified,104475.9744
+Supermicro,SYS-220GP-TNR,H100 PCIe,4,Intel Ice Lake,2,No,Qualified,64735.41442
+Supermicro,SBI-411E-1G,L40S,1,Intel Sapphire Rapids,1,No,Qualified,56220.51253
+Supermicro,SYS-241H-TNRTTP,L40,2,Intel Sapphire Rapids,2,No,Qualified,26964.44593
+Supermicro,SYS-421GE-TNRT,RTX A5000,10,Intel Sapphire Rapids,2,No,Qualified,184520.1953
+Supermicro,SYS-420GP-TNR,RTX 6000 Ada Generation,10,Intel Ice Lake,2,No,Qualified,21289.37094
+Supermicro,SYS-421GE-TNRT,RTX 5000 Ada Generation,10,Intel Sapphire Rapids,2,No,Qualified,174253.8987
+Supermicro,AS-5014A-TT,RTX 6000 Ada Generation,4,AMD Ryzen,1,No,Qualified,73138.5548
+Supermicro,SYS-521GE-TNRT,L40S,8,Intel Sapphire Rapids,2,No,Qualified,131852.1653
+Supermicro,SYS-221HE-FTNR,L40S,3,Intel Sapphire Rapids,2,No,Qualified,80577.93742
+Supermicro,SYS-221GE-NR,L40S,4,Intel Sapphire Rapids,2,No,Qualified,48450.55716
+Supermicro,AS-4125GS-TNRT2,H100 NVL,10,AMD Genoa,2,No,Qualified,62825.75775
+Supermicro,AS-4125GS-TNRT,RTX 5000 Ada Generation,8,AMD Genoa,2,No,Qualified,175095.7597
+Supermicro,SYS-551A-T,RTX 6000 Ada Generation,4,Intel Sapphire Rapids,1,No,Qualified,124752.4601
+Supermicro,SYS-2029GP-TR,A30,4,Intel Cascade Lake,1,No,Qualified,132906.1616
+Supermicro,SYS-210GP-DNR,L4,3,Intel Ice Lake,1,No,Qualified,51444.41265
+Supermicro,SYS-621C-TN12R,A2,6,Intel Sapphire Rapids,2,No,Qualified,120870.944
+Supermicro,SYS-621H-TN12R,A40,4,Intel Sapphire Rapids,2,No,Qualified,151640.7646
+Supermicro,SYS-421GE-TNRT3,L4,8,Intel Sapphire Rapids,2,No,Qualified,79982.73075
+Supermicro,SYS-521GE-TNRT,L4,10,Intel Sapphire Rapids,2,No,Qualified,50682.72652
+Supermicro,AS-2015CS-TNR,L40S,2,AMD Genoa,1,No,Qualified,124142.4928
+Supermicro,AS-2125HS-TNR,L40S,2,AMD Bergamo,2,No,Qualified,100085.8132
+Supermicro,SYS-121H-TNR,L40S,1,Intel Sapphire Rapids,2,No,Qualified,22252.09974
+Supermicro,SYS-221H-TN24R,L40S,3,Intel Sapphire Rapids,2,No,Qualified,132369.2461
+Supermicro,SBA-4119SG,L40S,1,AMD Milan,1,No,Qualified,10678.56151
+Supermicro,SYS-421GE-TNRT3,RTX 5000 Ada Generation,8,Intel Sapphire Rapids,2,No,Qualified,39000.7341
+Supermicro,SYS-621C-TN12R,L40S,2,Intel Sapphire Rapids,2,No,Qualified,32039.22983
+Supermicro,SYS-221H-TNR,L40S,4,Intel Sapphire Rapids,2,No,Qualified,162192.291
+Supermicro,SYS-621H-TN12R,L40S,4,Intel Sapphire Rapids,2,No,Qualified,182464.5903
+Supermicro,SYS-E403-12P-IPA2-C,A30,1,Intel Ice Lake,1,No,Qualified,189866.9769
+Supermicro,SYS-221HE-FTNR,H100 PCIe,2,Intel Sapphire Rapids,2,No,Qualified,178875.3966
+Supermicro,SYS-220GP-TNR,RTX A6000,4,Intel Ice Lake,2,No,Qualified,80201.60313
+Supermicro,SYS-740GP-TNRT,L40S,4,Intel Ice Lake,2,No,Qualified,70259.88762
+Supermicro,SBI-411E-1G,A100 80GB,1,Intel Sapphire Rapids,1,No,Qualified,26553.52351
+Supermicro,AS-4125GS-TNRT1,L40,10,AMD Genoa,1,No,Qualified,193425.8263
+Supermicro,SYS-221HE-FTNR,A10,3,Intel Sapphire Rapids,2,No,Qualified,135607.3606
+Supermicro,SBI-411E-1G,A40,1,Intel Sapphire Rapids,1,No,Qualified,159824.5963
+Supermicro,SBI-611E-1T2N/5T2N,A100 80GB,1,Intel Sapphire Rapids,1,No,Qualified,143990.2153
+Supermicro,SYS-821GE-TNHR,HGX H100 8 GPU 80GB,8,Intel Sapphire Rapids,2,No,Qualified,143427.9797
+Supermicro,SYS-521GE-TNRT,RTX 6000 Ada Generation,10,Intel Sapphire Rapids,2,No,Qualified,91539.72624
+Supermicro,AS-4125GS-TNRT1,H100 NVL,10,AMD Genoa,2,No,Qualified,158947.0307
+Supermicro,SBI-411E-1G,A10,1,Intel Sapphire Rapids,1,No,Qualified,37629.27035
+Supermicro,SBI-611E-1T2N/5T2N,A40,1,Intel Sapphire Rapids,1,No,Qualified,27254.77031
+Supermicro,SYS-421GE-TNRT,RTX A4000,10,Intel Sapphire Rapids,2,No,Qualified,73600.1372
+Supermicro,SYS-221GE-NR,L40,4,Intel Sapphire Rapids,2,No,Qualified,103664.0564
+Supermicro,SYS-241H-TNRTTP,L40S,2,Intel Sapphire Rapids,4,No,Qualified,146845.2258
+Supermicro,SYS-1029GP-TR,L40,2,Intel Cascade Lake,2,No,Qualified,101928.2681
+Supermicro,SYS-211E-FRN2T,A10,1,Intel Sapphire Rapids,1,No,Qualified,134237.1555
+Supermicro,SYS-521GE-TNRT,RTX A5000,10,Intel Sapphire Rapids,2,No,Qualified,43502.0362
+Supermicro,SYS-120GQ-TNRT,L4,4,Intel Ice Lake,2,No,Qualified,12070.23809
+Supermicro,SYS-421GE-TNRT,A30,10,Intel Sapphire Rapids,2,No,Qualified,149555.3159
+Supermicro,SYS-421GE-TNRT3,RTX 6000 Ada Generation,8,Intel Sapphire Rapids,2,No,Qualified,108250.3227
+Supermicro,SYS-621H-TN12R,A30,4,Intel Sapphire Rapids,2,No,Qualified,120809.8954
+Supermicro,SYS-221GE-NR,H100 NVL,4,Intel Sapphire Rapids,2,No,Qualified,36503.39003
+Supermicro,SYS-621H-TN12R,T4,5,Intel Sapphire Rapids,2,No,Qualified,50571.76461
+Supermicro,SYS-221GE-NR,H100 PCIe,4,Intel Sapphire Rapids,2,No,Qualified,190890.4353
+Supermicro,SBA-4119SG,L4,2,AMD Milan,1,No,Qualified,178845.1911
+Supermicro,SYS-420GP-TNR,L40S,10,Intel Ice Lake,2,No,Qualified,101799.2754
+Supermicro,SYS-621H-TN12R,RTX 4000 SFF Ada Generation,4,Intel Sapphire Rapids,2,No,Qualified,140524.4615
+Supermicro,SYS-421GE-TNRT3,L40S,4,Intel Sapphire Rapids,2,No,Qualified,118182.3103
+Supermicro,SYS-221HE-TNR,A2,1,Intel Sapphire Rapids,2,No,Qualified,115133.628
+Supermicro,SYS-421GE-TNRT3,H100 NVL,8,Intel Sapphire Rapids,2,No,Qualified,152633.0124
+Supermicro,SYS-421GE-TNRT,T4,10,Intel Sapphire Rapids,2,No,Qualified,74484.42296
+Supermicro,SYS-241H-TNRTTP,RTX 6000 Ada Generation,2,Intel Sapphire Rapids,4,No,Qualified,181953.1746
+Supermicro,AS-2025HS-TNR,A10,4,AMD Genoa,2,No,Qualified,50158.1086
+Supermicro,SBI-411E-5G,L40,1,AMD Genoa,1,No,Qualified,98666.72693
+Supermicro,SYS-221H-TNR,RTX 6000 Ada Generation,2,Intel Sapphire Rapids,4,No,Qualified,75436.64914
+Supermicro,SYS-111E-FDWTR,L4,2,Intel Sapphire Rapids,1,No,Qualified,127319.1264
+Supermicro,SYS-421GE-TNRT3,A16,4,Intel Sapphire Rapids,2,No,Qualified,64599.23862
+Supermicro,SYS-521GE-TNRT,A16,4,Intel Sapphire Rapids,2,No,Qualified,173041.5519
+Supermicro,AS-2025HS-TNR,RTX 4000 Ada Generation,4,AMD Genoa,2,No,Qualified,104190.5217
+Supermicro,SYS-421GE-TNRT,A16,4,Intel Sapphire Rapids,2,No,Qualified,180612.0843
+Supermicro,SYS-221E-FRN2T,L4,2,Intel Sapphire Rapids,1,No,Qualified,164505.3146
+Supermicro,PIO-NX1175S-G9-BASE-NI22,L4,2,Intel Ice Lake,1,No,Qualified,150130.4869
+Supermicro,SYS-420GP-TNR,RTX 4000 Ada Generation,10,Intel Ice Lake,2,No,Qualified,132091.025
+Supermicro,PIO-NX1175S-G9-BASE-NI22,A2,3,Intel Ice Lake,1,No,Qualified,71199.12253
+Supermicro,AS-4125GS-TNRT2,RTX 4000 SFF Ada Generation,8,AMD Genoa,2,No,Qualified,101643.1638
+Supermicro,SYS-621H-TN12R,A2,5,Intel Sapphire Rapids,2,No,Qualified,190216.4571
+Supermicro,SYS-621H-TN12R,L4,5,Intel Sapphire Rapids,2,No,Qualified,168246.0251
+Supermicro,SYS-420GP-TNR,RTX 5000 Ada Generation,10,Intel Ice Lake,2,No,Qualified,74297.21832
+Supermicro,AS-4125GS-TNRT1,L40S,10,AMD Genoa,1,No,Qualified,84382.01733
+Supermicro,AS-4125GS-TNRT1,H100 PCIe,10,AMD Genoa,1,No,Qualified,140997.2389
+Supermicro,SBA-4119SG,L40,1,AMD Milan,1,No,Qualified,53545.97479
+Supermicro,SBI-411E-1G,L4,1,Intel Sapphire Rapids,1,No,Qualified,168345.9445
+Supermicro,SBI-611E-1T2N,L4,1,Intel Sapphire Rapids,1,No,Qualified,120910.9556
+Supermicro,SYS-621H-TN12R,A16,4,Intel Sapphire Rapids,2,No,Qualified,128222.0493
+Supermicro,SYS-421GE-TNRT3,RTX 4000 Ada Generation,8,Intel Sapphire Rapids,2,No,Qualified,178306.5268
+Supermicro,PIO-NX8155AG9-BASE-NI22,A2,3,AMD Genoa,2,No,Qualified,63538.41627
+Supermicro,SYS-221H-TNR,A16,4,Intel Sapphire Rapids,2,No,Qualified,84158.98638
+Supermicro,SYS-751A-I,RTX 5000 Ada Generation,2,Intel Sapphire Rapids,2,No,Qualified,119252.2783
+Supermicro,PIO-NX8155AG9-BASE-NI22,A16,1,AMD Genoa,2,No,Qualified,193333.6037
+Supermicro,AS-4125GS-TNRT2,L40S,10,AMD Genoa,2,No,Qualified,98982.84863
+Supermicro,SYS-420GP-TNR,L4,10,Intel Ice Lake,2,No,Qualified,134947.9358
+Supermicro,AS-4125GS-TNHT2,HGX H100 8 GPU 80GB,8,AMD Genoa,2,No,Qualified,56515.36194
+Supermicro,SYS-421GE-TNRT3,A100 80GB,8,Intel Sapphire Rapids,2,No,Qualified,36306.27472
+Supermicro,SYS-621H-TN12R,L40,4,Intel Sapphire Rapids,2,No,Qualified,45736.0781
+Supermicro,SYS-551A-T,RTX 5000 Ada Generation,3,Intel Sapphire Rapids,1,No,Qualified,171445.2116
+Supermicro,SYS-741P-TRT,RTX 6000 Ada Generation,2,Intel Sapphire Rapids,2,No,Qualified,127018.51
+Supermicro,SYS-521GE-TNRT,RTX 4000 Ada Generation,8,Intel Sapphire Rapids,2,No,Qualified,102419.86
+Supermicro,SYS-821GE-TNHR2-CT039,HGX H100 8 GPU 80GB,8,Intel Sapphire Rapids,2,No,Qualified,28231.30402
+Supermicro,SYS-221GE-TNHT-LCC,HGX H100 4 GPU 80GB,4,Intel Sapphire Rapids,2,No,NVIDIA-Certified,46756.33219
+Supermicro,SYS-531A-IL,RTX 5000 Ada Generation,1,Intel Alder Lake,1,No,Qualified,187115.2631
+Supermicro,SYS-421GE-TNRT,RTX 4000 Ada Generation,8,Intel Sapphire Rapids,2,No,Qualified,73310.08755
+Supermicro,SYS-421GE-TNRT3,RTX A6000,8,Intel Sapphire Rapids,2,No,Qualified,89859.52279
+Supermicro,SYS-521GE-TNRT,RTX A6000,10,Intel Sapphire Rapids,2,No,Qualified,169877.8589
+Supermicro,SYS-220GP-TNR,L40S,6,Intel Ice Lake,2,No,Qualified,54832.07232
+Supermicro,SYS-620U-TNR,L40S,2,Intel Ice Lake,2,No,Qualified,192423.8842
+Supermicro,AS-2114GT-DPNR,RTX 5000 Ada Generation,3,AMD Milan,2,No,Qualified,198549.7276
+Supermicro,SYS-521GE-TNRT,A40,8,Intel Sapphire Rapids,2,No,Qualified,30048.63092
+Supermicro,SYS-531A-I,RTX 4000 Ada Generation,1,Intel Sapphire Rapids,1,No,Qualified,42008.03039
+Supermicro,SYS-421GE-TNRT3,L40,8,Intel Sapphire Rapids,2,No,Qualified,158843.1225
+Supermicro,CAS-IH828,HGX H100 8 GPU 80GB,8,Intel Sapphire Rapids,2,No,Qualified,187582.9224
+Supermicro,SYS-221H-TNR,H100 NVL,4,Intel Sapphire Rapids,2,No,Qualified,94708.67446
+Supermicro,SYS-621H-TN12R,H100 PCIe,2,Intel Sapphire Rapids,3,No,Qualified,197119.476
+Supermicro,AS-1014S-WTRT,L4,2,AMD Milan,1,No,Qualified,12468.87827
+Supermicro,SYS-421GE-TNRT3,A40,8,Intel Sapphire Rapids,2,No,Qualified,121674.4859
+Supermicro,SYS-741P-TR,L4,4,Intel Sapphire Rapids,2,No,Qualified,99749.95847
+Supermicro,AS-4125GS-TNRT,H100 NVL,8,AMD Genoa,2,No,Qualified,177874.4966
+Supermicro,SYS-121H-TNR,H100 NVL,1,Intel Emerald Rapids,2,No,Qualified,65105.72693
+Supermicro,AS-1115S-FWTRT,A2,1,AMD Siena,1,No,Qualified,123809.252
+Supermicro,SYS-741P-TRT,L4,4,Intel Sapphire Rapids,2,No,Qualified,32084.25252
+Supermicro,SYS-521GE-TNRT,L40,10,Intel Sapphire Rapids,2,No,Qualified,23530.52082
+Supermicro,SYS-741P-TR/TRT,A16,2,Intel Sapphire Rapids,2,No,Qualified,94987.60897
+Supermicro,SYS-621C-TN12R,H100 NVL,2,Intel Emerald Rapids,2,No,Qualified,138232.6065
+Supermicro,SYS-421GE-TNRT,L20,8,Intel Sapphire Rapids,2,No,Qualified,84765.20494
+Supermicro,AS-2025HS-TNR,A30,2,AMD Genoa,2,No,Qualified,68581.00582
+Supermicro,AS-4125GS-TNRT1,A16,4,AMD Genoa,1,No,Qualified,187076.629
